@@ -1,5 +1,13 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7A0C2E&height=180&section=header&text=YOUR%20NAME&fontSize=50&fontColor=FF5A8B&animation=twinkle" />
-</p>
+<h1 align="center" style="
+  font-family: 'Georgia', serif; 
+  font-size: 60px; 
+  font-weight: bold;
+  background: linear-gradient(90deg, #7A0C2E, #D61C59, #FF5A8B);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+">
+  YOUR TEXT HERE
+</h1>
+</h1>
 
 testttttttttttttt
