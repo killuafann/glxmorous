@@ -7,3 +7,7 @@ $${\Huge\color{#C2EFE9}\text{iwc at all times  ⌢  }\color{#E75775}\text{my hum
 $${\Huge\color{#C2EFE9}\text{c  +  h  always encouraged  }\color{#E75775}\text{⌢  even if not  }\color{#7A001E}\text{stated in name.}}$$
 
 </div>
+
+<p align="center">
+  <img src="YOUR_UPLOADED_IMAGE_URL_HERE" width="700">
+</p>
