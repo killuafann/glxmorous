@@ -1,13 +1,9 @@
-<h1 align="center" style="
-  font-family: 'Georgia', serif; 
-  font-size: 60px; 
-  font-weight: bold;
-  background: linear-gradient(90deg, #7A0C2E, #D61C59, #FF5A8B);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-">
-  YOUR TEXT HERE
-</h1>
-</h1>
+<div align="center">
+
+$${\Large\color{#5C3D1E}\text{iwc at all times  ⌢  my humour is not  4  everyone.}}$$
+
+$${\Large\color{#8A5D2C}\text{c  +  h  always encouraged  ⌢  even if not stated in name.}}$$
+
+</div>
 
 testttttttttttttt
