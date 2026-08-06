@@ -1,2 +1,2 @@
 
-<span style="color: #FF5733;">L</span><span style="color: #FF6F33;">i</span><span style="color: #FF8733;">g</span><span style="color: #FFA033;">h</span><span style="color: #FFB833;">t</span> <span style="color: #FFD133;">a</span><span style="color: #FFE933;">n</span><span style="color: #E3FF33;">d</span> <span style="color: #B8FF33;">d</span><span style="color: #8CFF33;">a</span><span style="color: #61FF33;">r</span><span style="color: #33FF49;">k</span>
+![Gradient Header](./gradient-text.svg)
