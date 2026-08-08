@@ -3,43 +3,6 @@ TESSTTTTTTTTTTTTTTTTT
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6B0E46&size=30&weight=700&lines=Guns)](https://guns.lol/ronovae) [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BC1451&size=30&weight=700&lines=Straw)](https://ronovae.straw.page) [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ABC8BF&size=30&weight=700&lines=Ata)](https://ronovae.atabook.org)
 
-<svg width="600" height="340" viewBox="0 0 600 340" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="text-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ff7b00" />
-      <stop offset="50%" stop-color="#ffc05f" />
-      <stop offset="100%" stop-color="#2a9d8f" />
-    </linearGradient>
-
-    <filter id="rgb-glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="0.8" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
-    </filter>
-
-    <style>
-      .poem-text {
-        font-family: 'Georgia', 'Times New Roman', serif;
-        font-style: italic;
-        font-size: 20px;
-        font-weight: 600;
-        fill: url(#text-gradient);
-        filter: url(#rgb-glow);
-        text-anchor: middle;
-      }
-    </style>
-  </defs>
-
-  <rect width="100%" height="100%" fill="#0d1117" rx="8" />
-
-  <text x="50%" y="40" class="poem-text">" Light and dark and shadow</text>
-  <text x="50%" y="75" class="poem-text">Secrets from long ago</text>
-  <text x="50%" y="110" class="poem-text">From the earth, you do rise</text>
-  <text x="50%" y="145" class="poem-text">Beautiful and all – wise</text>
-  <text x="50%" y="180" class="poem-text">Cast your spell upon me</text>
-  <text x="50%" y="215" class="poem-text">In my heart, I do see</text>
-  <text x="50%" y="250" class="poem-text">Ancient love from below</text>
-  <text x="50%" y="285" class="poem-text">You and I are whole "</text>
-</svg>
+<p align="center">
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='600' height='340' viewBox='0 0 600 340'><defs><linearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='100%25'><stop offset='0%25' stop-color='%23ff7b00'/><stop offset='50%25' stop-color='%23ffc05f'/><stop offset='100%25' stop-color='%232a9d8f'/></linearGradient><filter id='f'><feGaussianBlur stdDeviation='0.8' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter><style>.t{font-family:'Georgia',serif;font-style:italic;font-size:20px;font-weight:600;fill:url(%23g);filter:url(%23f);text-anchor:middle;}</style></defs><rect width='100%25' height='100%25' fill='%230d1117' rx='8'/><text x='50%25' y='40' class='t'>" Light and dark and shadow</text><text x='50%25' y='75' class='t'>Secrets from long ago</text><text x='50%25' y='110' class='t'>From the earth, you do rise</text><text x='50%25' y='145' class='t'>Beautiful and all – wise</text><text x='50%25' y='180' class='t'>Cast your spell upon me</text><text x='50%25' y='215' class='t'>In my heart, I do see</text><text x='50%25' y='250' class='t'>Ancient love from below</text><text x='50%25' y='285' class='t'>You and I are whole "</text></svg>" />
+</p>
