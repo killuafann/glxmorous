@@ -5,13 +5,13 @@ TESSTTTTTTTTTTTTTTTTT
 
 <p align="center">
   <i>
-    <font color="#00F5FF">" Light and dark and shadow</font><br/>
-    <font color="#00D2FF">Secrets from long ago</font><br/>
-    <font color="#00B0FF">From the earth, you do rise</font><br/>
-    <font color="#3B82FF">Beautiful and all – wise</font><br/>
-    <font color="#7052FF">Cast your spell upon me</font><br/>
-    <font color="#9B30FF">In my heart, I do see</font><br/>
-    <font color="#C71585">Ancient love from below</font><br/>
-    <font color="#FF1493">You and I are whole "</font>
+    <font color="#FF007F">" Light and dark and shadow</font><br/>
+    <font color="#FF7B00">Secrets from long ago</font><br/>
+    <font color="#FFC000">From the earth, you do rise</font><br/>
+    <font color="#00E5FF">Beautiful and all – wise</font><br/>
+    <font color="#7D52FF">Cast your spell upon me</font><br/>
+    <font color="#FF00D4">In my heart, I do see</font><br/>
+    <font color="#00FF66">Ancient love from below</font><br/>
+    <font color="#00D9FF">You and I are whole "</font>
   </i>
 </p>
