@@ -3,7 +3,7 @@ TESSTTTTTTTTTTTTTTTTT
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6B0E46&size=30&weight=700&lines=Guns)](https://guns.lol/ronovae) [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BC1451&size=30&weight=700&lines=Straw)](https://ronovae.straw.page) [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ABC8BF&size=30&weight=700&lines=Ata)](https://ronovae.atabook.org)
 
-<svg width="100%" height="320" viewBox="0 0 500 320" xmlns="http://www.w3.org/2000/svg">
+<svg width="600" height="340" viewBox="0 0 600 340" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="text-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#ff7b00" />
@@ -32,12 +32,14 @@ TESSTTTTTTTTTTTTTTTTT
     </style>
   </defs>
 
-  <text x="50%" y="30" class="poem-text">" Light and dark and shadow</text>
-  <text x="50%" y="65" class="poem-text">Secrets from long ago</text>
-  <text x="50%" y="100" class="poem-text">From the earth, you do rise</text>
-  <text x="50%" y="135" class="poem-text">Beautiful and all – wise</text>
-  <text x="50%" y="170" class="poem-text">Cast your spell upon me</text>
-  <text x="50%" y="205" class="poem-text">In my heart, I do see</text>
-  <text x="50%" y="240" class="poem-text">Ancient love from below</text>
-  <text x="50%" y="275" class="poem-text">You and I are whole "</text>
+  <rect width="100%" height="100%" fill="#0d1117" rx="8" />
+
+  <text x="50%" y="40" class="poem-text">" Light and dark and shadow</text>
+  <text x="50%" y="75" class="poem-text">Secrets from long ago</text>
+  <text x="50%" y="110" class="poem-text">From the earth, you do rise</text>
+  <text x="50%" y="145" class="poem-text">Beautiful and all – wise</text>
+  <text x="50%" y="180" class="poem-text">Cast your spell upon me</text>
+  <text x="50%" y="215" class="poem-text">In my heart, I do see</text>
+  <text x="50%" y="250" class="poem-text">Ancient love from below</text>
+  <text x="50%" y="285" class="poem-text">You and I are whole "</text>
 </svg>
