@@ -8,7 +8,5 @@ TESSTTTTTTTTTTTTTTTTT
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=20&duration=1&pause=1&color=FF9E00&center=true&vCenter=true&multiline=true&width=500&height=320&lines=%22+Light+and+dark+and+shadow;Secrets+from+long+ago;From+the+earth%2C+you+do+rise;Beautiful+and+all+%E2%80%93+wise;Cast+your+spell+upon+me;In+my+heart%2C+I+do+see;Ancient+love+from+below;You+and+I+are+whole+%22" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=0,2,4,10,30&text=%22%20Light%20and%20dark%20and%20shadow%0A%20Secrets%20from%20long%20ago%0A%20From%20the%20earth,%20you%20do%20rise%0A%20Beautiful%20and%20all%20%E2%80%93%20wise%0A%20Cast%20your%20spell%20upon%20me%0A%20In%20my%20heart,%20I%20do%20see%0A%20Ancient%20love%20from%20below%0A%20You%20and%20I%20are%20whole%20%22&fontSize=20&fontAlignY=20&height=320" />
 </p>
