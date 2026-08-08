@@ -10,7 +10,7 @@
     </linearGradient>
 
     <filter id="rgb-glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="0.8" result="blur" />
+      <feGaussianBlur stdDeviation="0.4" result="blur" />
       <feMerge>
         <feMergeNode in="blur" />
         <feMergeNode in="SourceGraphic" />
