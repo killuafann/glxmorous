@@ -15,3 +15,7 @@ TESSTTTTTTTTTTTTTTTTT
     <font color="#00D9FF">You and I are whole "</font>
   </i>
 </p>
+
+<p align="center">
+  <img src="./poem.svg" alt="Poem" />
+</p>
