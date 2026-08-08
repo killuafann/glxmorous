@@ -23,6 +23,7 @@
       .herta-text {
         font-family: 'Great Vibes', 'Brush Script MT', 'Dancing Script', cursive;
         font-size: 28px;
+        font-weight: 300; /* Thinner weight */
         fill: url(#text-gradient);
         filter: url(#rgb-glow);
         text-anchor: middle;
@@ -36,4 +37,5 @@
   <text x="50%" y="110" class="herta-text">Madam Herta is an unrivalled genius.</text>
   <text x="50%" y="160" class="herta-text">Madam Herta is an inimitable beauty. "</text>
 </svg>
+
 
