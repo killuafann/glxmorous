@@ -40,7 +40,7 @@ ${\textsf{\color{#87cbb9}H}}{\textsf{\color{#8fc4b4}e}}{\textsf{\color{#97beaf}r
 <br/><br/>
 
 <p>
-${\textsf{\color{#87cbb9}" 谜}}{\textsf{\color{#96c1b0}底}}{\textsf{\color{#a5b7a7}却}}{\textsf{\color{#b4ae9e}是}}{\textsf{\color{#c3a495}…}}{\textsf{\color{#d29b8c}乌}}{\textsf{\color{#e19183}有}}{\textsf{\color{#f0887a}之}}{\textsf{\color{#801d38}物。"}}$
+${\textsf{\color{#621622}" 谜}}{\textsf{\color{#96c1b0}底}}{\textsf{\color{#a5b7a7}却}}{\textsf{\color{#b4ae9e}是}}{\textsf{\color{#c3a495}…}}{\textsf{\color{#d29b8c}乌}}{\textsf{\color{#e19183}有}}{\textsf{\color{#f0887a}之}}{\textsf{\color{#801d38}物。"}}$
 </p>
 
 <br/><br/>
