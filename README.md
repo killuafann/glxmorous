@@ -8,6 +8,10 @@ TESSTTTTTTTTTTTTTTTTT
   <img src="./poem.svg" alt="Poem" />
 </p>
 
+
+
+
+
 <div align="center">
 
 <p><font color="#87CBB9">═══════════════════════════════════════════════════════════════</font></p>
@@ -28,22 +32,18 @@ TESSTTTTTTTTTTTTTTTTT
 <br/>
 
 <p>
-  <font color="#87CBB9"><i><b>H e r t a</b></i></font> 
-  <font color="#A3C3B0"><i><b>.</b></i></font> 
-  <font color="#BFAAA7"><i><b>S p a c e</b></i></font> 
-  <font color="#A3C3B0"><i><b>.</b></i></font> 
-  <font color="#801D38"><i><b>S t a t i o n</b></i></font>
+${\textsf{\color{#87cbb9}H}}{\textsf{\color{#8fc4b4}e}}{\textsf{\color{#97beaf}r}}{\textsf{\color{#9fb7aa}t}}{\textsf{\color{#a7b1a5}a}}\textsf{\color{#afaab0} . }{\textsf{\color{#b7a4ab}S}}{\textsf{\color{#bf9da6}p}}{\textsf{\color{#c797a1}a}}{\textsf{\color{#cf909c}c}}{\textsf{\color{#d78a97}e}}\textsf{\color{#df8392} . }{\textsf{\color{#e77d8d}S}}{\textsf{\color{#ef7688}t}}{\textsf{\color{#f77083}a}}{\textsf{\color{#ff697e}t}}{\textsf{\color{#e7526d}i}}{\textsf{\color{#cf3b5c}o}}{\textsf{\color{#801d38}n}}$
 </p>
 
 <br/>
 
 <p>
-  <font color="#87CBB9"><i><b>“ 谜</b></i></font><font color="#9CBBA9"><i><b>底</b></i></font><font color="#B1AB99"><i><b>却</b></i></font><font color="#C69B89"><i><b>是</b></i></font><font color="#B17C80"><i><b>…</b></i></font><font color="#9C5D78"><i><b>乌</b></i></font><font color="#873E70"><i><b>有</b></i></font><font color="#801D38"><i><b>之物。”</b></i></font>
+${\textsf{\color{#87cbb9}" 谜}}{\textsf{\color{#96c1b0}底}}{\textsf{\color{#a5b7a7}却}}{\textsf{\color{#b4ae9e}是}}{\textsf{\color{#c3a495}…}}{\textsf{\color{#d29b8c}乌}}{\textsf{\color{#e19183}有}}{\textsf{\color{#f0887a}之}}{\textsf{\color{#801d38}物。"}}$
 </p>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=r0ttingdevotion&color=87cbb9&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=r0ttingdevotions&color=87cbb9&style=flat-square" alt="profile views" />
 
 <br/><br/>
 
