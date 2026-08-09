@@ -60,3 +60,6 @@ ${\textsf{\color{#87cbb9}" 谜}}{\textsf{\color{#96c1b0}底}}{\textsf{\color{#a5
 <p><font color="#801D38">══════════════════════════════════════════════════════════════════════════════</font></p>
 
 </div>
+
+
+<img width="420" height="420" alt="Image" src="https://github.com/user-attachments/assets/524d4231-a0c0-46c1-9d9d-516b254095ab" />
