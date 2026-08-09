@@ -13,14 +13,17 @@ TESSTTTTTTTTTTTTTTTTT
 
 <div align="center">
 
-<p><font color="#87CBB9">══════════════════════════════════════════════════════════════════════════════</font></p>
+<p><font color="#87CBB9">════════════════════════════════════════════════════════════════════════════════════════════════</font></p>
 
 <br/>
 
-<table border="0" cellspacing="0" cellpadding="0" width="900" height="550" style="border: none !important; border-collapse: collapse !important; outline: none !important;">
-<tr height="550" style="border: none !important;">
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; max-width: 900px;">
+<table border="0" cellspacing="0" cellpadding="0" style="border: none !important; background: transparent !important; border-collapse: collapse !important;">
+<tr style="border: none !important; background: transparent !important;">
 
-<td width="50%" align="center" valign="middle" style="border: none !important; padding: 20px;">
+<td width="50%" align="center" valign="middle" style="border: none !important; background: transparent !important; padding: 20px;">
+
+<br/>
 
 <p>
   <a href="YOUR_ATABOOK_LINK"><font color="#87CBB9"><i><b>a t a b o o k</b></i></font></a> ‧ 
@@ -44,20 +47,23 @@ ${\textsf{\color{#87cbb9}" 谜}}{\textsf{\color{#96c1b0}底}}{\textsf{\color{#a5
 
 <img src="https://komarev.com/ghpvc/?username=r0ttingdevotion&color=87cbb9&style=flat-square" alt="profile views" />
 
+<br/>
+
 </td>
 
-<td width="50%" align="center" valign="middle" style="border: none !important; padding: 20px;">
+<td width="50%" align="center" valign="middle" style="border: none !important; background: transparent !important; padding: 20px;">
 
-<img src="https://private-user-images.githubusercontent.com/240546545/633409391-524d4231-a0c0-46c1-9d9d-516b254095ab.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODYyODUzODgsIm5iZiI6MTc4NjI4NTA4OCwicGF0aCI6Ii8yNDA1NDY1NDUvNjMzNDA5MzkxLTUyNGQ0MjMxLWEwYzAtNDZjMS05ZDlkLTUxNmIyNTQwOTVhYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwODA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgwOVQxNDE4MDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NDg3ODRkOTYyMjJkOTFmYTg5NTY4M2E4MTVjYjcyNzM5NWFmNDQ1YmRlMTMyYTY1ZGY2YzEwYzQ0OWFlMGY2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.tXg4gQN6hgUETGve83o5vgbNkOJAtZHiRqBkDI1lXf0" width="420" alt="The Herta" />
+<img src="YOUR_HERTA_IMAGE_URL_HERE" width="400" alt="The Herta" />
 
 </td>
 
 </tr>
 </table>
+</div>
 
 <br/>
 
-<p><font color="#801D38">══════════════════════════════════════════════════════════════════════════════</font></p>
+<p><font color="#801D38">════════════════════════════════════════════════════════════════════════════════════════════════</font></p>
 
 </div>
 
