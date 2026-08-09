@@ -14,12 +14,12 @@ TESSTTTTTTTTTTTTTTTTT
 
 <div align="center">
 
-<p><font color="#87CBB9">═══════════════════════════════════════════════════════════════</font></p>
+<p><font color="#87CBB9">════════════════════════════════════════════════════════════════════════════════════</font></p>
 
-<table border="0">
+<table border="0" width="900">
 <tr>
 
-<td width="50%" align="center" valign="middle">
+<td width="45%" align="center" valign="middle">
 
 <br/>
 
@@ -38,26 +38,26 @@ ${\textsf{\color{#87cbb9}H}}{\textsf{\color{#8fc4b4}e}}{\textsf{\color{#97beaf}r
 <br/>
 
 <p>
-${\textsf{\color{#87cbb9}" 谜}}{\textsf{\color{#96c1b0}底}}{\textsf{\color{#a5b7a7}却}}{\textsf{\color{#b4ae9e}是}}{\textsf{\color{#c3a495}…}}{\textsf{\color{#d29b8c}乌}}{\textsf{\color{#e19183}有}}{\textsf{\color{#f0887a}之}}{\textsf{\color{#801d38}物。"}}$
+${\textsf{\color{#87cbb9}" 谜}}{\textsf{\color{#96c1b0}底}}{\textsf{\color{#a5b7a7}却}}{\textsf{\color{#b4ae9e}s}}{\textsf{\color{#c3a495}…}}{\textsf{\color{#d29b8c}乌}}{\textsf{\color{#e19183}有}}{\textsf{\color{#f0887a}之}}{\textsf{\color{#801d38}物。"}}$
 </p>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=r0ttingdevotions&color=87cbb9&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=87cbb9&style=flat-square" alt="profile views" />
 
 <br/><br/>
 
 </td>
 
-<td width="50%" align="center" valign="middle">
+<td width="55%" align="center" valign="middle">
 
-<img src="YOUR_HERTA_IMAGE_URL_HERE" width="100%" alt="The Herta" />
+<img src="YOUR_HERTA_IMAGE_URL_HERE" width="450" alt="The Herta" />
 
 </td>
 
 </tr>
 </table>
 
-<p><font color="#801D38">═══════════════════════════════════════════════════════════════</font></p>
+<p><font color="#801D38">════════════════════════════════════════════════════════════════════════════════════</font></p>
 
 </div>
