@@ -14,12 +14,12 @@ TESSTTTTTTTTTTTTTTTTT
 
 <div align="center">
 
-<p><font color="#87CBB9">════════════════════════════════════════════════════════════════════════════════════</font></p>
+<p><font color="#87CBB9">════════════════════════════════════════════════════════════════════════════════════════════════════════════</font></p>
 
 <br/>
 
-<table border="0" width="900">
-<tr height="500">
+<table border="0" width="1100">
+<tr height="550">
 
 <td width="45%" align="center" valign="middle">
 
@@ -53,7 +53,7 @@ ${\textsf{\color{#87cbb9}" 谜}}{\textsf{\color{#96c1b0}底}}{\textsf{\color{#a5
 
 <td width="55%" align="center" valign="middle">
 
-<img src="YOUR_HERTA_IMAGE_URL_HERE" width="520" alt="The Herta" />
+<img src="YOUR_HERTA_IMAGE_URL_HERE" width="600" alt="The Herta" />
 
 </td>
 
@@ -62,6 +62,6 @@ ${\textsf{\color{#87cbb9}" 谜}}{\textsf{\color{#96c1b0}底}}{\textsf{\color{#a5
 
 <br/>
 
-<p><font color="#801D38">════════════════════════════════════════════════════════════════════════════════════</font></p>
+<p><font color="#801D38">════════════════════════════════════════════════════════════════════════════════════════════════════════════</font></p>
 
 </div>
