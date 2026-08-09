@@ -18,7 +18,10 @@ TESSTTTTTTTTTTTTTTTTT
 
 <br/>
 
-<span align="center" style="display: inline-block; vertical-align: middle; margin-right: 30px;">
+<table border="0" cellspacing="0" cellpadding="0" frame="void" rules="none">
+<tr>
+
+<td align="center" valign="middle" style="padding-right: 40px;">
 
 <br/>
 
@@ -46,15 +49,18 @@ ${\textsf{\color{#87cbb9}" 谜}}{\textsf{\color{#96c1b0}底}}{\textsf{\color{#a5
 
 <br/>
 
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<span align="center" style="display: inline-block; vertical-align: middle;">
+</td>
 
-<img src="YOUR_HERTA_IMAGE_URL_HERE" width="550" alt="The Herta" />
+<td align="center" valign="middle">
 
-</span>
+<img src="YOUR_HERTA_IMAGE_URL_HERE" width="500" alt="The Herta" />
 
-<br/><br/>
+</td>
+
+</tr>
+</table>
+
+<br/>
 
 <p><font color="#801D38">════════════════════════════════════════════════════════════════════════════════════════════════════════════</font></p>
 
