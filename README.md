@@ -12,24 +12,42 @@ TESSTTTTTTTTTTTTTTTTT
 
 <div align="center">
 
-<table>
+<p><font color="#87CBB9">═══════════════════════════════════════════════════════════════</font></p>
+
+<table border="0">
 <tr>
 
 <td width="50%" align="center" valign="middle">
 
-<p>🪶 <a href="YOUR_RENTRY_LINK"><b>r e n t r y</b></a> ‧ <a href="YOUR_ATABOOK_LINK"><b>a t a b o o k</b></a> ‧ <a href="YOUR_ARTFIGHT_LINK"><b>a r t f i g h t</b></a> ‧ <a href="YOUR_GUNSLOL_LINK"><b>g u n s . l o l</b></a> ‧ <a href="YOUR_STRAWPAGE_LINK"><b>s t r a w p a g e</b></a> 🪶</p>
+<br/>
+
+<p>
+  <a href="YOUR_ATABOOK_LINK"><font color="#87CBB9"><b>a t a b o o k</b></font></a> ‧ 
+  <a href="YOUR_GUNSLOL_LINK"><font color="#801D38"><b>g u n s . l o l</b></font></a> ‧ 
+  <a href="YOUR_STRAWPAGE_LINK"><font color="#87CBB9"><b>s t r a w p a g e</b></font></a>
+</p>
 
 <br/>
 
-<p><b>h e r t a</b> ‧ <b>g e n i u s</b> ‧ <b>h e r t a</b></p>
+<p>
+  <font color="#87CBB9"><b>H e r t a</b></font> 
+  <font color="#A3C3B0"><b>.</b></font> 
+  <font color="#BFAAA7"><b>S p a c e</b></font> 
+  <font color="#A3C3B0"><b>.</b></font> 
+  <font color="#801D38"><b>S t a t i o n</b></font>
+</p>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=800020&style=flat-square" alt="profile views" />
+<p>
+  <font color="#87CBB9"><b>“ 谜</b></font><font color="#9CBBA9"><b>底</b></font><font color="#B1AB99"><b>却</b></font><font color="#C69B89"><b>是</b></font><font color="#B17C80"><b>…</b></font><font color="#9C5D78"><b>乌</b></font><font color="#873E70"><b>有</b></font><font color="#801D38"><b>之物。”</b></font>
+</p>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=87cbb9&style=flat-square" alt="profile views" />
 
 <br/><br/>
-
-<p><a href="LINK_1"><sub>01</sub></a> &nbsp; <a href="LINK_2"><sub>02</sub></a> &nbsp; <a href="LINK_3"><sub>03</sub></a> &nbsp; <a href="LINK_4"><sub>04</sub></a> &nbsp; <a href="LINK_5"><sub>05</sub></a></p>
 
 </td>
 
@@ -41,5 +59,7 @@ TESSTTTTTTTTTTTTTTTTT
 
 </tr>
 </table>
+
+<p><font color="#801D38">═══════════════════════════════════════════════════════════════</font></p>
 
 </div>
