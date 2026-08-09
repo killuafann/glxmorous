@@ -15,7 +15,7 @@ TESSTTTTTTTTTTTTTTTTT
 
 <p><font color="#801D38">════════════════════════════════════════════════════════════════════════════════════════════════</font></p>
 
-<img src="YOUR_HERTA_IMAGE_URL_HERE" width="380" align="right" alt="The Herta" />
+<img src="https://private-user-images.githubusercontent.com/240546545/633416007-8bfa7a7b-c496-47f6-86a1-a751b47509b2.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODYyODg4MDMsIm5iZiI6MTc4NjI4ODUwMywicGF0aCI6Ii8yNDA1NDY1NDUvNjMzNDE2MDA3LThiZmE3YTdiLWM0OTYtNDdmNi04NmExLWE3NTFiNDc1MDliMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwODA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgwOVQxNTE1MDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zYTQ5NGZhMWRmMDkxMzZhY2E3ZDU1OWM0MTUyMTE2Njk2YjhiMjA1Zjk1NGRiMGQ3ZTQzZTU3MDdhMzY1MTcxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.lcNy6Q3CZX8hqDTqPV3l4KiGz_o7OHEBKO0QxEmnkn4" width="380" align="right" alt="The Herta" />
 
 <br/>
 
