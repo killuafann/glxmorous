@@ -47,7 +47,7 @@ ${\textsf{\color{#801d38}"}}{\textsf{\color{#902947}谜}}{\textsf{\color{#a03354
 </td>
 
 <td align="center" valign="middle" style="border: none !important;">
-  <img src="YOUR_HERTA_IMAGE_URL_HERE" width="380" alt="The Herta" />
+  <img src="https://private-user-images.githubusercontent.com/240546545/633416007-8bfa7a7b-c496-47f6-86a1-a751b47509b2.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODYyODg5MTMsIm5iZiI6MTc4NjI4ODYxMywicGF0aCI6Ii8yNDA1NDY1NDUvNjMzNDE2MDA3LThiZmE3YTdiLWM0OTYtNDdmNi04NmExLWE3NTFiNDc1MDliMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwODA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgwOVQxNTE2NTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yYzUwNDgwMTMwNzAzOTYwODM1ZWYyNTAyM2U2ZWQ2MmZhODY2ZTg3OTE5YTQ2M2Y0NWIxNjNhY2VmMDQzZGIwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.D-MVI27aZSYbzKJ1fTa0QH8xmNhpMu66Iqpqnw_Yt90" width="380" alt="The Herta" />
 </td>
 
 </tr>
