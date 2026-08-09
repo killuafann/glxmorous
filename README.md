@@ -18,12 +18,9 @@ TESSTTTTTTTTTTTTTTTTT
 
 <br/>
 
-<table border="0" style="border: none; border-collapse: collapse;" width="1100">
-<tr height="550" style="border: none;">
+<span align="center" style="display: inline-block; vertical-align: middle; margin-right: 30px;">
 
-<td width="45%" align="center" valign="middle" style="border: none;">
-
-<br/><br/>
+<br/>
 
 <p>
   <a href="YOUR_ATABOOK_LINK"><font color="#87CBB9"><i><b>a t a b o o k</b></i></font></a> ‧ 
@@ -47,20 +44,17 @@ ${\textsf{\color{#87cbb9}" 谜}}{\textsf{\color{#96c1b0}底}}{\textsf{\color{#a5
 
 <img src="https://komarev.com/ghpvc/?username=r0ttingdevotion&color=87cbb9&style=flat-square" alt="profile views" />
 
-<br/><br/>
-
-</td>
-
-<td width="55%" align="center" valign="middle" style="border: none;">
-
-<img src="YOUR_HERTA_IMAGE_URL_HERE" width="600" alt="The Herta" />
-
-</td>
-
-</tr>
-</table>
-
 <br/>
+
+</span>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<span align="center" style="display: inline-block; vertical-align: middle;">
+
+<img src="YOUR_HERTA_IMAGE_URL_HERE" width="550" alt="The Herta" />
+
+</span>
+
+<br/><br/>
 
 <p><font color="#801D38">════════════════════════════════════════════════════════════════════════════════════════════════════════════</font></p>
 
