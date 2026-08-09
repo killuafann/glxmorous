@@ -13,7 +13,7 @@ TESSTTTTTTTTTTTTTTTTT
 
 <div align="center">
 
-<p><font color="#87CBB9">══════════════════════════════════════════════════════════════════</font></p>
+<p><font color="#801D38">════════════════════════════════════════════════════════════════════════════════════════════════</font></p>
 
 <br/>
 
@@ -26,26 +26,26 @@ TESSTTTTTTTTTTTTTTTTT
 <br/>
 
 <p>
-  <a href="YOUR_ATABOOK_LINK"><font color="#87CBB9"><i><b>a t a b o o k</b></i></font></a> ‧ 
-  <a href="YOUR_GUNSLOL_LINK"><font color="#801D38"><i><b>g u n s . l o l</b></i></font></a> ‧ 
-  <a href="YOUR_STRAWPAGE_LINK"><font color="#87CBB9"><i><b>s t r a w p a g e</b></i></font></a>
+  <a href="YOUR_ATABOOK_LINK"><font color="#801D38"><i><b>a t a b o o k</b></i></font></a> ‧ 
+  <a href="YOUR_GUNSLOL_LINK"><font color="#87CBB9"><i><b>g u n s . l o l</b></i></font></a> ‧ 
+  <a href="YOUR_STRAWPAGE_LINK"><font color="#801D38"><i><b>s t r a w p a g e</b></i></font></a>
 </p>
 
 <br/><br/>
 
 <p>
-${\textsf{\color{#87cbb9}H}}{\textsf{\color{#8fc4b4}e}}{\textsf{\color{#97beaf}r}}{\textsf{\color{#9fb7aa}t}}{\textsf{\color{#a7b1a5}a}}\textsf{\color{#afaab0} . }{\textsf{\color{#b7a4ab}S}}{\textsf{\color{#bf9da6}p}}{\textsf{\color{#c797a1}a}}{\textsf{\color{#cf909c}c}}{\textsf{\color{#d78a97}e}}\textsf{\color{#df8392} . }{\textsf{\color{#e77d8d}S}}{\textsf{\color{#ef7688}t}}{\textsf{\color{#f77083}a}}{\textsf{\color{#ff697e}t}}{\textsf{\color{#e7526d}i}}{\textsf{\color{#cf3b5c}o}}{\textsf{\color{#801d38}n}}$
+${\textsf{\color{#801d38}H}}{\textsf{\color{#cf3b5c}e}}{\textsf{\color{#e7526d}r}}{\textsf{\color{#ff697e}t}}{\textsf{\color{#f77083}a}}\textsf{\color{#ef7688} . }{\textsf{\color{#e77d8d}S}}{\textsf{\color{#df8392}p}}{\textsf{\color{#d78a97}a}}{\textsf{\color{#cf909c}c}}{\textsf{\color{#c797a1}e}}\textsf{\color{#bf9da6} . }{\textsf{\color{#b7a4ab}S}}{\textsf{\color{#afaab0}t}}{\textsf{\color{#a7b1a5}a}}{\textsf{\color{#9fb7aa}t}}{\textsf{\color{#97beaf}i}}{\textsf{\color{#8fc4b4}o}}{\textsf{\color{#87cbb9}n}}$
 </p>
 
 <br/><br/>
 
 <p>
-${\textsf{\color{#621622}" 谜}}{\textsf{\color{#6B2630}底}}{\textsf{\color{#6D2E3E}却}}{\textsf{\color{#5A9FA1}是}}{\textsf{\color{#7CB2B3}…}}{\textsf{\color{#d29b8c}乌}}{\textsf{\color{#e19183}有}}{\textsf{\color{#f0887a}之}}{\textsf{\color{#801d38}物。"}}$
+${\textsf{\color{#801d38}" 谜}}{\textsf{\color{#f0887a}底}}{\textsf{\color{#e19183}却}}{\textsf{\color{#d29b8c}是}}{\textsf{\color{#c3a495}…}}{\textsf{\color{#b4ae9e}乌}}{\textsf{\color{#a5b7a7}有}}{\textsf{\color{#96c1b0}之}}{\textsf{\color{#87cbb9}物。"}}$
 </p>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=r0ttingdevotion&color=87cbb9&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=r0ttingdevotion&color=801d38&style=flat-square" alt="profile views" />
 
 <br/>
 
@@ -53,7 +53,7 @@ ${\textsf{\color{#621622}" 谜}}{\textsf{\color{#6B2630}底}}{\textsf{\color{#6D
 
 <td width="50%" align="center" valign="middle" style="border: none !important; background: transparent !important; padding: 20px;">
 
-<img src="https://private-user-images.githubusercontent.com/240546545/633411468-0e487896-6e15-4265-b5ef-6d7cf6e756ed.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODYyODY2NjMsIm5iZiI6MTc4NjI4NjM2MywicGF0aCI6Ii8yNDA1NDY1NDUvNjMzNDExNDY4LTBlNDg3ODk2LTZlMTUtNDI2NS1iNWVmLTZkN2NmNmU3NTZlZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwODA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgwOVQxNDM5MjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zNzlmODdjOGUyOTNkM2U4ZDQzMGE1N2YyYTc1ZGZlMDJlNTY4NDAzODkyNzBjYTg1YmEwY2NhNDZkOWFiMTZlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.YX5j_WqTKv3mmRRW5R_ACSWbYTmh7s7cHT2eeL-Jxhs" width="600" alt="The Herta" />
+<img src="YOUR_HERTA_IMAGE_URL_HERE" width="380" alt="The Herta" />
 
 </td>
 
@@ -63,7 +63,7 @@ ${\textsf{\color{#621622}" 谜}}{\textsf{\color{#6B2630}底}}{\textsf{\color{#6D
 
 <br/>
 
-<p><font color="#801D38">══════════════════════════════════════════════════════════════════</font></p>
+<p><font color="#87CBB9">════════════════════════════════════════════════════════════════════════════════════════════════</font></p>
 
 </div>
 
