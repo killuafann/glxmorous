@@ -61,5 +61,4 @@ ${\textsf{\color{#801d38}"}}{\textsf{\color{#902947}谜}}{\textsf{\color{#a03354
 
 
 
-<img width="1000" height="1000" alt="Image" src="https://github.com/user-attachments/assets/8bfa7a7b-c496-47f6-86a1-a751b47509b2" />
 
