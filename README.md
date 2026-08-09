@@ -68,4 +68,4 @@ ${\textsf{\color{#87cbb9}" 谜}}{\textsf{\color{#96c1b0}底}}{\textsf{\color{#a5
 </div>
 
 
-<img width="1000" height="1000" alt="Image" src="https://github.com/user-attachments/assets/3c91afa6-e468-433f-8614-12552845523a" />
+<img width="1000" height="1000" alt="Image" src="https://github.com/user-attachments/assets/0e487896-6e15-4265-b5ef-6d7cf6e756ed" />
