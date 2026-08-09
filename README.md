@@ -28,19 +28,19 @@ TESSTTTTTTTTTTTTTTTTT
 <p>
   <a href="YOUR_ATABOOK_LINK"><font color="#801D38"><i><b>a t a b o o k</b></i></font></a> ‧ 
   <a href="YOUR_GUNSLOL_LINK"><font color="#87CBB9"><i><b>g u n s . l o l</b></i></font></a> ‧ 
-  <a href="YOUR_STRAWPAGE_LINK"><font color="#801D38"><i><b>s t r a w p a g e</b></i></font></a>
+  <a href="YOUR_STRAWPAGE_LINK"><font color="#E2F6FF"><i><b>s t r a w p a g e</b></i></font></a>
 </p>
 
 <br/><br/>
 
 <p>
-${\textsf{\color{#801d38}H}}{\textsf{\color{#cf3b5c}e}}{\textsf{\color{#e7526d}r}}{\textsf{\color{#ff697e}t}}{\textsf{\color{#f77083}a}}\textsf{\color{#ef7688} . }{\textsf{\color{#e77d8d}S}}{\textsf{\color{#df8392}p}}{\textsf{\color{#d78a97}a}}{\textsf{\color{#cf909c}c}}{\textsf{\color{#c797a1}e}}\textsf{\color{#bf9da6} . }{\textsf{\color{#b7a4ab}S}}{\textsf{\color{#afaab0}t}}{\textsf{\color{#a7b1a5}a}}{\textsf{\color{#9fb7aa}t}}{\textsf{\color{#97beaf}i}}{\textsf{\color{#8fc4b4}o}}{\textsf{\color{#87cbb9}n}}$
+${\textsf{\color{#801d38}H}}{\textsf{\color{#952c4b}e}}{\textsf{\color{#aa3b5e}r}}{\textsf{\color{#b35071}t}}{\textsf{\color{#b56784}a}}\textsf{\color{#b17e97} . }{\textsf{\color{#a993aa}S}}{\textsf{\color{#9da8bc}p}}{\textsf{\color{#91bdcd}a}}{\textsf{\color{#87cbb9}c}}{\textsf{\color{#9dd8c9}e}}\textsf{\color{#b3e4db} . }{\textsf{\color{#c8efe9}S}}{\textsf{\color{#d6f4ee}t}}{\textsf{\color{#e2f6ff}a}}{\textsf{\color{#edf9ff}t}}{\textsf{\color{#e2f6ff}i}}{\textsf{\color{#d6f4ee}o}}{\textsf{\color{#87cbb9}n}}$
 </p>
 
 <br/><br/>
 
 <p>
-${\textsf{\color{#801d38}" 谜}}{\textsf{\color{#f0887a}底}}{\textsf{\color{#e19183}却}}{\textsf{\color{#d29b8c}是}}{\textsf{\color{#c3a495}…}}{\textsf{\color{#b4ae9e}乌}}{\textsf{\color{#a5b7a7}有}}{\textsf{\color{#96c1b0}之}}{\textsf{\color{#87cbb9}物。"}}$
+${\textsf{\color{#801d38}" 谜}}{\textsf{\color{#a03354}底}}{\textsf{\color{#b5587a}却}}{\textsf{\color{#aa7a97}是}}{\textsf{\color{#97a1b9}…}}{\textsf{\color{#87cbb9}乌}}{\textsf{\color{#bde8e0}有}}{\textsf{\color{#e2f6ff}之}}{\textsf{\color{#edf9ff}物。"}}$
 </p>
 
 <br/><br/>
@@ -63,7 +63,7 @@ ${\textsf{\color{#801d38}" 谜}}{\textsf{\color{#f0887a}底}}{\textsf{\color{#e1
 
 <br/>
 
-<p><font color="#87CBB9">════════════════════════════════════════════════════════════════════════════════════════════════</font></p>
+<p><font color="#E2F6FF">════════════════════════════════════════════════════════════════════════════════════════════════</font></p>
 
 </div>
 
