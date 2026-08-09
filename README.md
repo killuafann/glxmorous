@@ -21,32 +21,28 @@ TESSTTTTTTTTTTTTTTTTT
 <br/>
 
 <p>
-  <a href="YOUR_ATABOOK_LINK">
-    <img src="YOUR_ATABOOK_SVG_URL.svg" alt="atabook" height="20" />
-  </a>
-  &nbsp;‧&nbsp;
-  <a href="YOUR_GUNSLOL_LINK">
-    <img src="YOUR_GUNSLOL_SVG_URL.svg" alt="guns.lol" height="20" />
-  </a>
-  &nbsp;‧&nbsp;
-  <a href="YOUR_STRAWPAGE_LINK">
-    <img src="YOUR_STRAWPAGE_SVG_URL.svg" alt="strawpage" height="20" />
-  </a>
+  <a href="YOUR_ATABOOK_LINK"><font color="#87CBB9"><b>a t a b o o k</b></font></a> ‧ 
+  <a href="YOUR_GUNSLOL_LINK"><font color="#801D38"><b>g u n s . l o l</b></font></a> ‧ 
+  <a href="YOUR_STRAWPAGE_LINK"><font color="#87CBB9"><b>s t r a w p a g e</b></font></a>
 </p>
 
 <br/>
 
-<a href="#">
-  <img src="YOUR_HERTA_SPACE_STATION_SVG_URL.svg" alt="Herta Space Station" width="280" />
-</a>
+<p>
+  <font color="#87CBB9"><b>H e r t a</b></font> 
+  <font color="#A3C3B0"><b>.</b></font> 
+  <font color="#BFAAA7"><b>S p a c e</b></font> 
+  <font color="#A3C3B0"><b>.</b></font> 
+  <font color="#801D38"><b>S t a t i o n</b></font>
+</p>
 
-<br/><br/>
+<br/>
 
-<a href="#">
-  <img src="YOUR_CHINESE_QUOTE_SVG_URL.svg" alt="谜底却是…乌有之物。" width="250" />
-</a>
+<p>
+  <font color="#87CBB9"><b>“ 谜</b></font><font color="#9CBBA9"><b>底</b></font><font color="#B1AB99"><b>却</b></font><font color="#C69B89"><b>是</b></font><font color="#B17C80"><b>…</b></font><font color="#9C5D78"><b>乌</b></font><font color="#873E70"><b>有</b></font><font color="#801D38"><b>之物。”</b></font>
+</p>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=87cbb9&style=flat-square" alt="profile views" />
 
