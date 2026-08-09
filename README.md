@@ -10,7 +10,6 @@ TESSTTTTTTTTTTTTTTTTT
 
 
 
-
 <div align="center">
 
 <table>
@@ -42,8 +41,5 @@ TESSTTTTTTTTTTTTTTTTT
 
 </tr>
 </table>
-
-</div>
-<img src="YOUR_FOOTER_BANNER_URL_HERE" width="100%" alt="footer banner" />
 
 </div>
