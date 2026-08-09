@@ -14,58 +14,49 @@ TESSTTTTTTTTTTTTTTTTT
 
 <div align="center">
 
-<hr width="80%" size="1" color="#87CBB9" />
+<p><font color="#87CBB9">════════════════════════════════════════════════════════════════════</font></p>
+
+<table border="0" style="border:none !important; border-collapse:collapse !important; background:transparent !important;">
+<tr style="border:none !important;">
+
+<td align="center" valign="middle" style="border:none !important; padding-right: 25px;">
+
+<p>
+  <a href="YOUR_ATABOOK_LINK"><font color="#87CBB9"><i><b>a t a b o o k</b></i></font></a> ‧ 
+  <a href="YOUR_GUNSLOL_LINK"><font color="#801D38"><i><b>g u n s . l o l</b></i></font></a> ‧ 
+  <a href="YOUR_STRAWPAGE_LINK"><font color="#87CBB9"><i><b>s t r a w p a g e</b></i></font></a>
+</p>
 
 <br/>
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr border="0">
+<p>
+${\textsf{\color{#87cbb9}H}}{\textsf{\color{#8fc4b4}e}}{\textsf{\color{#97beaf}r}}{\textsf{\color{#9fb7aa}t}}{\textsf{\color{#a7b1a5}a}}\textsf{\color{#afaab0} . }{\textsf{\color{#b7a4ab}S}}{\textsf{\color{#bf9da6}p}}{\textsf{\color{#c797a1}a}}{\textsf{\color{#cf909c}c}}{\textsf{\color{#d78a97}e}}\textsf{\color{#df8392} . }{\textsf{\color{#e77d8d}S}}{\textsf{\color{#ef7688}t}}{\textsf{\color{#f77083}a}}{\textsf{\color{#ff697e}t}}{\textsf{\color{#e7526d}i}}{\textsf{\color{#cf3b5c}o}}{\textsf{\color{#801d38}n}}$
+</p>
 
-    <td align="center" valign="middle" border="0" style="padding-right: 30px;">
+<br/>
 
-      <br/>
+<p>
+${\textsf{\color{#87cbb9}" 谜}}{\textsf{\color{#96c1b0}底}}{\textsf{\color{#a5b7a7}却}}{\textsf{\color{#b4ae9e}是}}{\textsf{\color{#c3a495}…}}{\textsf{\color{#d29b8c}乌}}{\textsf{\color{#e19183}有}}{\textsf{\color{#f0887a}之}}{\textsf{\color{#801d38}物。"}}$
+</p>
 
-      <p>
-        <a href="YOUR_ATABOOK_LINK"><font color="#87CBB9"><i><b>a t a b o o k</b></i></font></a> ‧ 
-        <a href="YOUR_GUNSLOL_LINK"><font color="#801D38"><i><b>g u n s . l o l</b></i></font></a> ‧ 
-        <a href="YOUR_STRAWPAGE_LINK"><font color="#87CBB9"><i><b>s t r a w p a g e</b></i></font></a>
-      </p>
+<br/>
 
-      <br/><br/>
+<img src="https://komarev.com/ghpvc/?username=r0ttingdevotion&color=87cbb9&style=flat-square" alt="profile views" />
 
-      <p>
-      ${\textsf{\color{#87cbb9}H}}{\textsf{\color{#8fc4b4}e}}{\textsf{\color{#97beaf}r}}{\textsf{\color{#9fb7aa}t}}{\textsf{\color{#a7b1a5}a}}\textsf{\color{#afaab0} . }{\textsf{\color{#b7a4ab}S}}{\textsf{\color{#bf9da6}p}}{\textsf{\color{#c797a1}a}}{\textsf{\color{#cf909c}c}}{\textsf{\color{#d78a97}e}}\textsf{\color{#df8392} . }{\textsf{\color{#e77d8d}S}}{\textsf{\color{#ef7688}t}}{\textsf{\color{#f77083}a}}{\textsf{\color{#ff697e}t}}{\textsf{\color{#e7526d}i}}{\textsf{\color{#cf3b5c}o}}{\textsf{\color{#801d38}n}}$
-      </p>
+</td>
 
-      <br/><br/>
+<td align="center" valign="middle" style="border:none !important;">
 
-      <p>
-      ${\textsf{\color{#87cbb9}" 谜}}{\textsf{\color{#96c1b0}底}}{\textsf{\color{#a5b7a7}却}}{\textsf{\color{#b4ae9e}是}}{\textsf{\color{#c3a495}…}}{\textsf{\color{#d29b8c}乌}}{\textsf{\color{#e19183}有}}{\textsf{\color{#f0887a}之}}{\textsf{\color{#801d38}物。"}}$
-      </p>
+<img src="YOUR_HERTA_IMAGE_URL_HERE" width="350" alt="The Herta" />
 
-      <br/><br/>
+</td>
 
-      <img src="https://komarev.com/ghpvc/?username=r0ttingdevotion&color=87cbb9&style=flat-square" alt="profile views" />
-
-      <br/>
-
-    </td>
-
-    <td align="center" valign="middle" border="0">
-
-      <img src="YOUR_HERTA_IMAGE_URL_HERE" width="380" alt="The Herta" />
-
-    </td>
-
-  </tr>
+</tr>
 </table>
 
-<br/>
-
-<hr width="80%" size="1" color="#801D38" />
+<p><font color="#801D38">════════════════════════════════════════════════════════════════════</font></p>
 
 </div>
-
 
 
 
