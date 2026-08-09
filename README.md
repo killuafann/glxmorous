@@ -9,7 +9,6 @@ TESSTTTTTTTTTTTTTTTTT
 </p>
 
 
-
 <div align="center">
 
 <p><font color="#87CBB9">═══════════════════════════════════════════════════════════════</font></p>
@@ -22,25 +21,25 @@ TESSTTTTTTTTTTTTTTTTT
 <br/>
 
 <p>
-  <a href="YOUR_ATABOOK_LINK"><font color="#87CBB9"><b>a t a b o o k</b></font></a> ‧ 
-  <a href="YOUR_GUNSLOL_LINK"><font color="#801D38"><b>g u n s . l o l</b></font></a> ‧ 
-  <a href="YOUR_STRAWPAGE_LINK"><font color="#87CBB9"><b>s t r a w p a g e</b></font></a>
+  <a href="YOUR_ATABOOK_LINK"><font color="#87CBB9"><i><b>a t a b o o k</b></i></font></a> ‧ 
+  <a href="YOUR_GUNSLOL_LINK"><font color="#801D38"><i><b>g u n s . l o l</b></i></font></a> ‧ 
+  <a href="YOUR_STRAWPAGE_LINK"><font color="#87CBB9"><i><b>s t r a w p a g e</b></i></font></a>
 </p>
 
 <br/>
 
 <p>
-  <font color="#87CBB9"><b>H e r t a</b></font> 
-  <font color="#A3C3B0"><b>.</b></font> 
-  <font color="#BFAAA7"><b>S p a c e</b></font> 
-  <font color="#A3C3B0"><b>.</b></font> 
-  <font color="#801D38"><b>S t a t i o n</b></font>
+  <font color="#87CBB9"><i><b>H e r t a</b></i></font> 
+  <font color="#A3C3B0"><i><b>.</b></i></font> 
+  <font color="#BFAAA7"><i><b>S p a c e</b></i></font> 
+  <font color="#A3C3B0"><i><b>.</b></i></font> 
+  <font color="#801D38"><i><b>S t a t i o n</b></i></font>
 </p>
 
 <br/>
 
 <p>
-  <font color="#87CBB9"><b>“ 谜</b></font><font color="#9CBBA9"><b>底</b></font><font color="#B1AB99"><b>却</b></font><font color="#C69B89"><b>是</b></font><font color="#B17C80"><b>…</b></font><font color="#9C5D78"><b>乌</b></font><font color="#873E70"><b>有</b></font><font color="#801D38"><b>之物。”</b></font>
+  <font color="#87CBB9"><i><b>“ 谜</b></i></font><font color="#9CBBA9"><i><b>底</b></i></font><font color="#B1AB99"><i><b>却</b></i></font><font color="#C69B89"><i><b>是</b></i></font><font color="#B17C80"><i><b>…</b></i></font><font color="#9C5D78"><i><b>乌</b></i></font><font color="#873E70"><i><b>有</b></i></font><font color="#801D38"><i><b>之物。”</b></i></font>
 </p>
 
 <br/>
