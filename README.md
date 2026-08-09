@@ -27,7 +27,7 @@ TESSTTTTTTTTTTTTTTTTT
 
 <p>
   <a href="https://laHerta.atabook.org/"><font color="#801D38"><i><b>a t a b o o k</b></i></font></a> ‧ 
-  <a href="https://guns.lol/ronovae"><font color="#87CBB9"><i><b>g u n s . l o l</b></i></font></a> ‧ 
+  <a href="https://guns.lol/madamhertaa"><font color="#87CBB9"><i><b>g u n s . l o l</b></i></font></a> ‧ 
   <a href="https://thehertaz.straw.page"><font color="#E2F6FF"><i><b>s t r a w p a g e</b></i></font></a>
 </p>
 
