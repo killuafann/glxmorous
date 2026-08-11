@@ -62,10 +62,5 @@ ${\textsf{\color{#801d38}"}}{\textsf{\color{#902947}谜}}{\textsf{\color{#a03354
 
 
 <p align="center">
-  <img src="void.svg" alt="Void Header" width="100%">
+  <img src="void.svg" alt="Void Divider Banner" width="100%">
 </p>
-
-  <svg id="void-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" height="100%">
-    </svg>
-
-</div>
