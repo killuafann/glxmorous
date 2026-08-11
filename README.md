@@ -61,11 +61,9 @@ ${\textsf{\color{#801d38}"}}{\textsf{\color{#902947}谜}}{\textsf{\color{#a03354
 
 
 
-<div class="void-container">
-  
-  <h1 style="color: #2B2B2B; font-family: sans-serif; font-size: 2rem; font-weight: 700; margin-bottom: 1rem;">
-    VOID
-  </h1>
+<p align="center">
+  <img src="void.svg" alt="Void Header" width="100%">
+</p>
 
   <svg id="void-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" height="100%">
     </svg>
