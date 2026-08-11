@@ -1,38 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 70" width="100%" height="auto">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" width="100%" height="auto">
   <defs>
     <linearGradient id="voidGradient" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#8a1f2d" />
-      <stop offset="40%" stop-color="#2d4850" />
+      <stop offset="45%" stop-color="#2d4850" />
       <stop offset="100%" stop-color="#468892" />
     </linearGradient>
 
     <g id="clover-icon">
-      <path d="M 0 -7 C -4 -13 -10 -7 -4 0 C -10 7 -4 13 0 7 C 4 13 10 7 4 0 C 10 -7 4 -13 0 -7 Z" fill="url(#voidGradient)" />
-      <circle cx="0" cy="0" r="1.5" fill="#0d1117" />
+      <path d="M 0 -10 C -6 -18 -14 -10 -6 0 C -14 10 -6 18 0 10 C 6 18 14 10 6 0 C 14 -10 6 -18 0 -10 Z" fill="url(#voidGradient)" />
+      <circle cx="0" cy="0" r="2.5" fill="#0d1117" />
     </g>
 
     <g id="badge-segment">
-      <rect x="0" y="0" width="110" height="34" rx="6" fill="#12181f" stroke="url(#voidGradient)" stroke-width="1.5" />
-      <use href="#clover-icon" x="22" y="17" />
-      <line x1="42" y1="17" x2="88" y2="17" stroke="url(#voidGradient)" stroke-width="2" stroke-linecap="round" />
-      <circle cx="95" cy="17" r="2" fill="url(#voidGradient)" />
+      <rect x="0" y="0" width="130" height="50" rx="10" fill="#12181f" stroke="url(#voidGradient)" stroke-width="2" />
+      <use href="#clover-icon" x="30" y="25" transform="scale(0.85) translate(4, 4)" />
+      <line x1="52" y1="25" x2="100" y2="25" stroke="url(#voidGradient)" stroke-width="3" stroke-linecap="round" />
+      <circle cx="110" cy="25" r="3" fill="url(#voidGradient)" />
     </g>
   </defs>
 
-  <rect width="100%" height="100%" fill="#0d1117" rx="8" />
+  <rect width="100%" height="100%" fill="#0d1117" rx="12" />
 
-  <rect x="5" y="5" width="690" height="60" rx="6" fill="none" stroke="url(#voidGradient)" stroke-width="1" stroke-dasharray="4 4" opacity="0.4" />
+  <rect x="8" y="8" width="784" height="104" rx="8" fill="none" stroke="url(#voidGradient)" stroke-width="1.5" stroke-dasharray="6 6" opacity="0.5" />
 
-  <g transform="translate(35, 18)">
+  <g transform="translate(45, 35)">
     <use href="#badge-segment" x="0" y="0" />
-    <use href="#clover-icon" x="132" y="17" />
+    <use href="#clover-icon" x="150" y="25" />
     
-    <use href="#badge-segment" x="155" y="0" />
-    <use href="#clover-icon" x="287" y="17" />
+    <use href="#badge-segment" x="180" y="0" />
+    <use href="#clover-icon" x="330" y="25" />
     
-    <use href="#badge-segment" x="310" y="0" />
-    <use href="#clover-icon" x="442" y="17" />
+    <use href="#badge-segment" x="360" y="0" />
+    <use href="#clover-icon" x="510" y="25" />
     
-    <use href="#badge-segment" x="465" y="0" />
+    <use href="#badge-segment" x="540" y="0" />
   </g>
 </svg>
+
