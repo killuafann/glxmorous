@@ -20,19 +20,33 @@ TESSTTTTTTTTTTTTTTTTT
         <a href="https://guns.lol/madamherta"><font color="#87CBB9"><i><b>g u n s . l o l</b></i></font></a> ·
         <a href="https://thehertaz.straw.page"><font color="#E2F6FF"><i><b>s t r a w p a g e</b></i></font></a>
       </p>
-      <p>
+
+  <br/><br/>
+
+   <p>
 ${\textsf{\color{#801D38}H}}{\textsf{\color{#952c4b}e}}{\textsf{\color{#aa3b5e}r}}{\textsf{\color{#b5071}t}}{\textsf{\color{#b56784}a}}{\textsf{\color{#b17e97}.}}{\textsf{\color{#a993aa}S}}{\textsf{\color{#9da8bc}p}}{\textsf{\color{#91bdcd}a}}{\textsf{\color{#87cbb9}c}}{\textsf{\color{#9dd8c9}e}}{\textsf{\color{#b3e04db}.}}{\textsf{\color{#c8efe9}S}}{\textsf{\color{#d6f4ee}t}}{\textsf{\color{#e2f6ff}a}}{\textsf{\color{#edf9ff}t}}{\textsf{\color{#e2f6ff}i}}{\textsf{\color{#d6f4ee}o}}{\textsf{\color{#87cbb9}n}}$
       </p>
-      <p>
-${\textsf{\color{#801D38}*}}{\textsf{\color{#902947}🪡}}{\textsf{\color{#a03354}座}}{\textsf{\color{#aa4565}🪞}}{\textsf{\color{#b5587a}册}}{\textsf{\color{#aa7a97}–}}{\textsf{\color{#97a1b9}鸟}}{\textsf{\color{#87cbb9}有}}{\textsf{\color{#bde8c0}之}}{\textsf{\color{#e2f6ff}物}}{\textsf{\color{#edf9ff}✨}}{\textsf{\color{#edf9ff}*}}$
-      </p>
-      <p>
-        <img src="https://komarev.com/ghpvc/?username=rottingdevotion&color=801d38&style=flat-square" alt="profile views" />
-      </p>
-    </td>
-    <td align="center" valign="middle" style="border: none !important;">
-      <img src="
 
+   <br/><br/>
+
+   <p>
+${\textsf{\color{#801D38}"\ 谜底却是\ ...\ 乌有之物。\ "}}$
+      </p>
+
+   <br/><br/>
+      
+   <img src="https://komarev.com/ghpvc/?username=rottingdevotion&color=801d38&style=flat-square" alt="profile views" />
+  </td>
+
+  <td align="center" valign="middle" style="border: none !important;">
+  <img src="YOUR_HERTA_IMAGE_URL_HERE" width="400" alt="The Herta" />
+   </td>
+  </tr>
+</table>
+
+<p><font color="#E2F6FF">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</font></p>
+
+</div>
 
 <p align="center">
   <img src="./void.svg" alt="Void Header Divider" width="100%">
