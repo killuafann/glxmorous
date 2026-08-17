@@ -66,9 +66,12 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
   <!-- Left Side: Hyacine PNG -->
   <img align="left" width="55%" style="margin-right: -10px;" src="https://private-user-images.githubusercontent.com/240546545/637047480-e5658032-d1e7-416f-a16d-5edc0c737f9d.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODY5ODQwMDYsIm5iZiI6MTc4Njk4MzcwNiwicGF0aCI6Ii8yNDA1NDY1NDUvNjM3MDQ3NDgwLWU1NjU4MDMyLWQxZTctNDE2Zi1hMTZkLTVlZGMwYzczN2Y5ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwODE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgxN1QxNjIxNDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mM2I5MDEyZDJjNTU2ODAxYjQwNTU1YWVmMzc5YjRiM2E2ODA0MmJiYWE0MTg2NjAzNmYzY2ExODRjZDVhY2U2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.c3MEFX1ZAzJqgoA69ouWhTgu9ly9WNwBifvAq2K--pQ" alt="Hyacine" />
 
-  <!-- Right Side Container (Centered & Shifted Down) -->
-  <div align="center" style="display: inline-block; width: 42%; margin-top: 130px;">
+  <!-- Right Side Container -->
+  <div align="center" style="display: inline-block; width: 42%;">
     
+    <!-- Vertical Spacing to Push Text Down to Center -->
+  <br><br><br><br><br>
+
     
   <p>
       <a href="YOUR_ATABOOK_URL"><i><b>atabook</b></i></a> · 
@@ -78,21 +81,21 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 
   <br><br>
 
-    
+   
   <p>
       $\huge\textsf{\color{#4C333D}A}\textsf{\color{#583641}.}\textsf{\color{#653945}m}\textsf{\color{#713C4A}.}\textsf{\color{#7E3F4E}p}\textsf{\color{#8B4353}.}\textsf{\color{#974657}h}\textsf{\color{#A4495C}.}\textsf{\color{#B04C60}o}\textsf{\color{#BC5460}.}\textsf{\color{#C26563}r}\textsf{\color{#C37C64}.}\textsf{\color{#C09765}e}\textsf{\color{#BAB069}.}\textsf{\color{#BCC872}u}\textsf{\color{#CFDA85}.}\textsf{\color{#E2F592}s}$
     </p>
 
   <br>
 
-    
+   
   <p>
       $\Large\textsf{\color{#4C333D}"\ }\textsf{\color{#613945}重}\textsf{\color{#753F4C}见}\textsf{\color{#8A4452}澄}\textsf{\color{#9F4A59}澈}\textsf{\color{#B4505F}晴}\textsf{\color{#C26A63}空}\textsf{\color{#C19A66}！}\textsf{\color{#E2F592}\ "}$
     </p>
 
-   <br><br>
+  <br><br>
 
-    
+  
   <p>
       <img src="https://komarev.com/ghpvc/?username=killuafann&label=angels%E2%99%A1&color=d2ed78&style=flat" alt="angels counter" />
     </p>
