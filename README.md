@@ -64,8 +64,8 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 
 <div align="center">
 
-  <!-- Left Side: Hyacine PNG -->
-  <img align="left" width="45%" src="YOUR_HYACINE_IMAGE_URL_HERE" alt="Hyacine" />
+  <!-- Left Side: Hyacine PNG (Floated) -->
+  <img align="left" width="48%" src="YOUR_HYACINE_IMAGE_URL_HERE" alt="Hyacine" />
 
   <br>
 
@@ -76,19 +76,21 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
     <a href="YOUR_STRAWPAGE_URL"><i><b>strawpage</b></i></a>
   </p>
 
-  <br>
+  <br><br>
 
-  <!-- Amphoreus Badge (Dark to Light Gradient Colors) -->
+  <!-- Amphoreus LaTeX Gradient Text -->
   <p>
-    <img src="https://img.shields.io/badge/A.m.p.h.o.r.e.u.s-4C333D?style=for-the-badge&labelColor=E2F592" alt="Amphoreus" />
-  </p>
-
-  <!-- Chinese Text Badge -->
-  <p>
-    <img src="https://img.shields.io/badge/%E2%80%9C%20%E9%87%8D%E8%A7%81%E6%BE%84%E6%BE%88%E6%99%B4%E7%A9%BA%EF%BC%81%20%E2%80%9D-8A4C53?style=for-the-badge&labelColor=E2F592" alt="Quote" />
+    $\textsf{\color{#4C333D}A}\textsf{\color{#583641}.}\textsf{\color{#653945}m}\textsf{\color{#713C4A}.}\textsf{\color{#7E3F4E}p}\textsf{\color{#8B4353}.}\textsf{\color{#974657}h}\textsf{\color{#A4495C}.}\textsf{\color{#B04C60}o}\textsf{\color{#BC5460}.}\textsf{\color{#C26563}r}\textsf{\color{#C37C64}.}\textsf{\color{#C09765}e}\textsf{\color{#BAB069}.}\textsf{\color{#BCC872}u}\textsf{\color{#CFDA85}.}\textsf{\color{#E2F592}s}$
   </p>
 
   <br>
+
+  <!-- Chinese Quote LaTeX Gradient Text -->
+  <p>
+    $\textsf{\color{#4C333D}"\ }\textsf{\color{#613945}重}\textsf{\color{#753F4C}见}\textsf{\color{#8A4452}澄}\textsf{\color{#9F4A59}澈}\textsf{\color{#B4505F}晴}\textsf{\color{#C26A63}空}\textsf{\color{#C19A66}！}\textsf{\color{#E2F592}\ "}$
+  </p>
+
+  <br><br>
 
   <!-- Profile Views Counter Badge -->
   <p>
