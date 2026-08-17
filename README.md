@@ -62,67 +62,59 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 
 
 
-<table border="0" cellspacing="0" cellpadding="0" style="border: none !important;">
-  <tr style="border: none !important;">
-    
-    <!-- Left Column: Hyacine Image -->
-    <td width="45%" align="center" valign="middle" style="border: none !important;">
-      <img src="YOUR_HYACINE_IMAGE_URL_HERE" width="100%" alt="Hyacine" />
-    </td>
+<div align="center">
 
-    <!-- Right Column: Text & Counter -->
-    <td width="55%" align="center" valign="middle" style="border: none !important;">
-      
-      <!-- Links -->
-      <div>
-        <a href="YOUR_ATABOOK_URL"><i><b>atabook</b></i></a> · 
-        <a href="YOUR_GUNSLOL_URL"><i><b>guns.lol</b></i></a> · 
-        <a href="YOUR_STRAWPAGE_URL"><i><b>strawpage</b></i></a>
-      </div>
+  <!-- Left Side: Hyacine PNG -->
+  <img align="left" width="38%" src="YOUR_HYACINE_IMAGE_URL_HERE" alt="Hyacine" />
 
-      <br />
+  <br>
 
-      <!-- Huge Gradient Amphoreus Text -->
-      <div>
-        <svg width="320" height="45" viewBox="0 0 320 45">
-          <defs>
-            <linearGradient id="amphoreusGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-              <stop offset="0%" stop-color="#4F7942" />
-              <stop offset="50%" stop-color="#A2D149" />
-              <stop offset="100%" stop-color="#E2F592" />
-            </linearGradient>
-          </defs>
-          <text x="50%" y="50%" dominant-baseline="central" text-anchor="middle" font-family="'Georgia', serif" font-size="28" font-weight="bold" letter-spacing="3" fill="url(#amphoreusGrad)">
-            A m p h o r e u s
-          </text>
-        </svg>
-      </div>
+  <!-- Top Links -->
+  <p>
+    <a href="YOUR_ATABOOK_URL"><i><b>atabook</b></i></a> · 
+    <a href="YOUR_GUNSLOL_URL"><i><b>guns.lol</b></i></a> · 
+    <a href="YOUR_STRAWPAGE_URL"><i><b>strawpage</b></i></a>
+  </p>
 
-      <br />
+  <br>
 
-      <!-- Huge Gradient Chinese Quote -->
-      <div>
-        <svg width="360" height="45" viewBox="0 0 360 45">
-          <defs>
-            <linearGradient id="chineseGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-              <stop offset="0%" stop-color="#4F7942" />
-              <stop offset="50%" stop-color="#A2D149" />
-              <stop offset="100%" stop-color="#E2F592" />
-            </linearGradient>
-          </defs>
-          <text x="50%" y="50%" dominant-baseline="central" text-anchor="middle" font-family="'Microsoft YaHei', sans-serif" font-size="24" font-weight="bold" letter-spacing="2" fill="url(#chineseGrad)">
-            “ 重见澄澈晴空！ ”
-          </text>
-        </svg>
-      </div>
+  <!-- Huge Gradient Amphoreus Text -->
+  <svg width="340" height="60" viewBox="0 0 340 60">
+    <defs>
+      <linearGradient id="amphGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#3A5A32" />
+        <stop offset="50%" stop-color="#8DBF4B" />
+        <stop offset="100%" stop-color="#E2F592" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="50%" dominant-baseline="central" text-anchor="middle" font-family="Georgia, serif" font-size="34" font-weight="bold" letter-spacing="4" fill="url(#amphGrad)">
+      Amphoreus
+    </text>
+  </svg>
 
-      <br />
+  <br>
 
-      <!-- Profile Views Badge -->
-      <div>
-        <img src="https://komarev.com/ghpvc/?username=YOUR_ACTUAL_GITHUB_USERNAME&label=angels%E2%99%A1&color=d2ed78&style=flat" alt="angels counter" />
-      </div>
+  <!-- Huge Gradient Chinese Text -->
+  <svg width="360" height="55" viewBox="0 0 360 55">
+    <defs>
+      <linearGradient id="zhGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#3A5A32" />
+        <stop offset="50%" stop-color="#8DBF4B" />
+        <stop offset="100%" stop-color="#E2F592" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="50%" dominant-baseline="central" text-anchor="middle" font-family="'Microsoft YaHei', sans-serif" font-size="26" font-weight="bold" letter-spacing="3" fill="url(#zhGrad)">
+      “ 重见澄澈晴空！ ”
+    </text>
+  </svg>
 
-    </td>
-  </tr>
-</table>
+  <br><br>
+
+  <!-- Profile Views Counter Badge -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=angels%E2%99%A1&color=d2ed78&style=flat" alt="angels counter" />
+  </p>
+
+</div>
+
+<br clear="all" />
