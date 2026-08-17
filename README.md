@@ -64,8 +64,8 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 
 <div align="center">
 
-  <!-- Left Side: Hyacine PNG (Floated) -->
-  <img align="left" width="48%" src="YOUR_HYACINE_IMAGE_URL_HERE" alt="Hyacine" />
+  <!-- Left Side: Hyacine PNG -->
+  <img align="left" width="45%" src="YOUR_HYACINE_IMAGE_URL_HERE" alt="Hyacine" />
 
   <br>
 
@@ -76,31 +76,19 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
     <a href="YOUR_STRAWPAGE_URL"><i><b>strawpage</b></i></a>
   </p>
 
-  <br><br>
+  <br>
 
-  <!-- Letter-by-Letter Gradient Text: Amphoreus -->
+  <!-- Amphoreus Badge (Dark to Light Gradient Colors) -->
   <p>
-    <b>
-      <font color="#4C333D">A</font>.<font color="#5C3842">m</font>.<font color="#6F3F48">p</font>.<font color="#82464F">h</font>.<font color="#964F57">o</font>.<font color="#AA5960">r</font>.<font color="#BD656A">e</font>.<font color="#B5866E">u</font>.<font color="#E2F592">s</font>
-    </b>
+    <img src="https://img.shields.io/badge/A.m.p.h.o.r.e.u.s-4C333D?style=for-the-badge&labelColor=E2F592" alt="Amphoreus" />
   </p>
 
-  <!-- Letter-by-Letter Gradient Text: Chinese Quote -->
+  <!-- Chinese Text Badge -->
   <p>
-    <b>
-      <font color="#4C333D">“</font>
-      <font color="#5C3842">重</font>
-      <font color="#6F3F48">见</font>
-      <font color="#82464F">澄</font>
-      <font color="#964F57">澈</font>
-      <font color="#AA5960">晴</font>
-      <font color="#BD656A">空</font>
-      <font color="#B5866E">！</font>
-      <font color="#E2F592">”</font>
-    </b>
+    <img src="https://img.shields.io/badge/%E2%80%9C%20%E9%87%8D%E8%A7%81%E6%BE%84%E6%BE%88%E6%99%B4%E7%A9%BA%EF%BC%81%20%E2%80%9D-8A4C53?style=for-the-badge&labelColor=E2F592" alt="Quote" />
   </p>
 
-  <br><br>
+  <br>
 
   <!-- Profile Views Counter Badge -->
   <p>
