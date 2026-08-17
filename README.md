@@ -69,7 +69,7 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
   <!-- Right Side Container -->
   <div align="center" style="display: inline-block; width: 42%;">
     
-    <!-- Vertical Spacing to Push Text Down to Center -->
+    
   <br><br><br><br><br>
 
     
