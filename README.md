@@ -55,3 +55,49 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 <p><font color="#E2F6FF">══════════════════════════════════════════════════════════════</font></p>
 
 </div>
+
+
+
+
+
+
+
+<table border="0">
+  <tr>
+    <!-- Left Column: Hyacine Image -->
+    <td width="50%" align="center" valign="middle">
+      <img src="YOUR_HYACINE_IMAGE_URL_HERE" width="100%" alt="Hyacine" />
+    </td>
+
+    <!-- Right Column: Text & Links -->
+    <td width="50%" align="center" valign="middle">
+      
+      <!-- Links -->
+      <p>
+        <a href="YOUR_ATABOOK_LINK"><i><b>atabook</b></i></a> · 
+        <a href="YOUR_GUNSLOL_LINK"><i><b>guns.lol</b></i></a> · 
+        <a href="YOUR_STRAWPAGE_LINK"><i><b>strawpage</b></i></a>
+      </p>
+
+      <br />
+
+      <!-- Gradient Text: Amphoreus -->
+      <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=32&duration=5000&pause=1000&color=E2F592&center=true&vCenter=true&width=300&height=50&lines=Amphoreus" alt="Amphoreus" />
+
+      <br />
+
+      <!-- Gradient Chinese Text -->
+      <p>
+        <font color="#D2ED78"><b>重见澄澈晴空！</b></font>
+      </p>
+
+      <br />
+
+      <!-- Profile Views Badge with Custom Label -->
+      <p>
+        <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=angels%E2%99%A1&color=d2ed78&style=flat" alt="angels counter" />
+      </p>
+
+    </td>
+  </tr>
+</table>
