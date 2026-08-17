@@ -78,16 +78,16 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 
   <br><br>
 
-  <!-- Amphoreus LaTeX Gradient Text -->
+  <!-- Amphoreus LaTeX Gradient Text (HUGE) -->
   <p>
-    $\textsf{\color{#4C333D}A}\textsf{\color{#583641}.}\textsf{\color{#653945}m}\textsf{\color{#713C4A}.}\textsf{\color{#7E3F4E}p}\textsf{\color{#8B4353}.}\textsf{\color{#974657}h}\textsf{\color{#A4495C}.}\textsf{\color{#B04C60}o}\textsf{\color{#BC5460}.}\textsf{\color{#C26563}r}\textsf{\color{#C37C64}.}\textsf{\color{#C09765}e}\textsf{\color{#BAB069}.}\textsf{\color{#BCC872}u}\textsf{\color{#CFDA85}.}\textsf{\color{#E2F592}s}$
+    $\huge\textsf{\color{#4C333D}A}\textsf{\color{#583641}.}\textsf{\color{#653945}m}\textsf{\color{#713C4A}.}\textsf{\color{#7E3F4E}p}\textsf{\color{#8B4353}.}\textsf{\color{#974657}h}\textsf{\color{#A4495C}.}\textsf{\color{#B04C60}o}\textsf{\color{#BC5460}.}\textsf{\color{#C26563}r}\textsf{\color{#C37C64}.}\textsf{\color{#C09765}e}\textsf{\color{#BAB069}.}\textsf{\color{#BCC872}u}\textsf{\color{#CFDA85}.}\textsf{\color{#E2F592}s}$
   </p>
 
   <br>
 
-  <!-- Chinese Quote LaTeX Gradient Text -->
+  <!-- Chinese Quote LaTeX Gradient Text (MEDIUM-LARGE) -->
   <p>
-    $\textsf{\color{#4C333D}"\ }\textsf{\color{#613945}重}\textsf{\color{#753F4C}见}\textsf{\color{#8A4452}澄}\textsf{\color{#9F4A59}澈}\textsf{\color{#B4505F}晴}\textsf{\color{#C26A63}空}\textsf{\color{#C19A66}！}\textsf{\color{#E2F592}\ "}$
+    $\Large\textsf{\color{#4C333D}"\ }\textsf{\color{#613945}重}\textsf{\color{#753F4C}见}\textsf{\color{#8A4452}澄}\textsf{\color{#9F4A59}澈}\textsf{\color{#B4505F}晴}\textsf{\color{#C26A63}空}\textsf{\color{#C19A66}！}\textsf{\color{#E2F592}\ "}$
   </p>
 
   <br><br>
