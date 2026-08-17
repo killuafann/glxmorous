@@ -64,7 +64,7 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 
 <div align="center">
 
-  <!-- Left Side: Hyacine PNG (Floated Left) -->
+  <!-- Left Side: Hyacine PNG (Floated) -->
   <img align="left" width="48%" src="YOUR_HYACINE_IMAGE_URL_HERE" alt="Hyacine" />
 
   <br>
@@ -76,39 +76,29 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
     <a href="YOUR_STRAWPAGE_URL"><i><b>strawpage</b></i></a>
   </p>
 
-  <br>
+  <br><br>
 
-  <!-- Instant Gradient Text: Amphoreus -->
-  <svg width="340" height="45" viewBox="0 0 340 45">
-    <defs>
-      <linearGradient id="amphGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#4C333D" />
-        <stop offset="35%" stop-color="#8A4C53" />
-        <stop offset="70%" stop-color="#C27468" />
-        <stop offset="100%" stop-color="#E2F592" />
-      </linearGradient>
-    </defs>
-    <text x="50%" y="50%" dominant-baseline="central" text-anchor="middle" font-family="Georgia, serif" font-size="28" font-weight="bold" fill="url(#amphGradient)">
-      A . m . p . h . o . r . e . u . s
-    </text>
-  </svg>
+  <!-- Letter-by-Letter Gradient Text: Amphoreus -->
+  <p>
+    <b>
+      <font color="#4C333D">A</font>.<font color="#5C3842">m</font>.<font color="#6F3F48">p</font>.<font color="#82464F">h</font>.<font color="#964F57">o</font>.<font color="#AA5960">r</font>.<font color="#BD656A">e</font>.<font color="#B5866E">u</font>.<font color="#E2F592">s</font>
+    </b>
+  </p>
 
-  <br>
-
-  <!-- Instant Gradient Text: Chinese Quote -->
-  <svg width="360" height="45" viewBox="0 0 360 45">
-    <defs>
-      <linearGradient id="zhGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#4C333D" />
-        <stop offset="35%" stop-color="#8A4C53" />
-        <stop offset="70%" stop-color="#C27468" />
-        <stop offset="100%" stop-color="#E2F592" />
-      </linearGradient>
-    </defs>
-    <text x="50%" y="50%" dominant-baseline="central" text-anchor="middle" font-family="'Microsoft YaHei', sans-serif" font-size="22" font-weight="bold" fill="url(#zhGradient)">
-      “ 重 见 澄 澈 晴 空 ！ ”
-    </text>
-  </svg>
+  <!-- Letter-by-Letter Gradient Text: Chinese Quote -->
+  <p>
+    <b>
+      <font color="#4C333D">“</font>
+      <font color="#5C3842">重</font>
+      <font color="#6F3F48">见</font>
+      <font color="#82464F">澄</font>
+      <font color="#964F57">澈</font>
+      <font color="#AA5960">晴</font>
+      <font color="#BD656A">空</font>
+      <font color="#B5866E">！</font>
+      <font color="#E2F592">”</font>
+    </b>
+  </p>
 
   <br><br>
 
