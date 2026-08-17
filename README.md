@@ -64,8 +64,8 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 
 <div align="center">
 
-  <!-- Left Side: Hyacine PNG (Width increased to bring elements closer) -->
-  <img align="left" width="52%" src="YOUR_HYACINE_IMAGE_URL_HERE" alt="Hyacine" />
+  <!-- Left Side: Hyacine PNG -->
+  <img align="left" width="50%" src="YOUR_HYACINE_IMAGE_URL_HERE" alt="Hyacine" />
 
   <br>
 
@@ -78,15 +78,29 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 
   <br><br>
 
-  <!-- Huge Gradient Text: Amphoreus (Color-picked from image dark to light) -->
-  <h1>
-    <font color="#4C333D">A</font><font color="#6B3F48">m</font><font color="#8A4C53">p</font><font color="#A85B5B">h</font><font color="#C27468">o</font><font color="#BBA169">r</font><font color="#BFBF77">e</font><font color="#CFDA85">u</font><font color="#E2F592">s</font>
-  </h1>
+  <!-- Amphoreus text with dots and letter-by-letter gradient -->
+  <p>
+    <font size="5" face="Georgia, serif">
+      <font color="#8A2B3D"><b>A</b></font>.<font color="#9B3342"><b>m</b></font>.<font color="#AC3E48"><b>p</b></font>.<font color="#BD4B4F"><b>h</b></font>.<font color="#C95B54"><b>o</b></font>.<font color="#D2705C"><b>r</b></font>.<font color="#D38A65"><b>e</b></font>.<font color="#CCA271"><b>u</b></font>.<font color="#C5B77E"><b>s</b></font>
+    </font>
+  </p>
 
-  <!-- Huge Gradient Text: Chinese Quote -->
-  <h2>
-    <font color="#4C333D">“</font> <font color="#613C44">重</font><font color="#7A464D">见</font><font color="#945155">澄</font><font color="#B3615F">澈</font><font color="#C28268">晴</font><font color="#BDB06F">空</font><font color="#CBD382">！</font> <font color="#E2F592">”</font>
-  </h2>
+  <br>
+
+  <!-- Chinese quote text with spaces and letter-by-letter gradient -->
+  <p>
+    <font size="4">
+      <font color="#8A2B3D">”</font> 
+      <font color="#9B3342"><b>重</b></font>
+      <font color="#AC3E48"><b>见</b></font>
+      <font color="#BD4B4F"><b>澄</b></font>
+      <font color="#C95B54"><b>澈</b></font>
+      <font color="#D2705C"><b>晴</b></font>
+      <font color="#D38A65"><b>空</b></font>
+      <font color="#CCA271"><b>！</b></font> 
+      <font color="#C5B77E">“</font>
+    </font>
+  </p>
 
   <br><br>
 
@@ -98,7 +112,6 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 </div>
 
 <br clear="all" />
-
 
 
 
