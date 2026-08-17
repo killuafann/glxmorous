@@ -61,46 +61,48 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 
 
 
-
 <div align="center">
 
-  <!-- Left Side: Hyacine PNG (Floated) -->
-  <img align="left" width="60%" src="https://private-user-images.githubusercontent.com/240546545/637047480-e5658032-d1e7-416f-a16d-5edc0c737f9d.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODY5ODM3OTgsIm5iZiI6MTc4Njk4MzQ5OCwicGF0aCI6Ii8yNDA1NDY1NDUvNjM3MDQ3NDgwLWU1NjU4MDMyLWQxZTctNDE2Zi1hMTZkLTVlZGMwYzczN2Y5ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwODE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgxN1QxNjE4MThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xZGJjNzk2Y2JhMTA2ZTVmMWE1ZDQxODFkOTBjYzI4OWQ1YTIxOTA1MmVkMWUwYzRlODI3ZGE1Mjk5MmQxOWMyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.vzLXIyK3L4e9rK5jPH9iVxmeBPgk8d5_RdmTgpLXyLQ" alt="Hyacine" />
+  <!-- Left Side: Hyacine PNG -->
+  <img align="left" width="55%" style="margin-right: -10px;" src="YOUR_HYACINE_IMAGE_URL_HERE" alt="Hyacine" />
 
-  <br>
+  <!-- Right Side Container (Fixed width centers the text perfectly) -->
+  <div align="center" style="display: inline-block; width: 42%;">
+        <br>
 
   <!-- Top Links -->
   <p>
-    <a href="YOUR_ATABOOK_URL"><i><b>atabook</b></i></a> · 
-    <a href="YOUR_GUNSLOL_URL"><i><b>guns.lol</b></i></a> · 
-    <a href="YOUR_STRAWPAGE_URL"><i><b>strawpage</b></i></a>
-  </p>
+      <a href="YOUR_ATABOOK_URL"><i><b>atabook</b></i></a> · 
+      <a href="YOUR_GUNSLOL_URL"><i><b>guns.lol</b></i></a> · 
+      <a href="YOUR_STRAWPAGE_URL"><i><b>strawpage</b></i></a>
+    </p>
 
   <br><br>
 
-  <!-- Amphoreus LaTeX Gradient Text (HUGE) -->
-  <p>
-    $\huge\textsf{\color{#4C333D}A}\textsf{\color{#583641}.}\textsf{\color{#653945}m}\textsf{\color{#713C4A}.}\textsf{\color{#7E3F4E}p}\textsf{\color{#8B4353}.}\textsf{\color{#974657}h}\textsf{\color{#A4495C}.}\textsf{\color{#B04C60}o}\textsf{\color{#BC5460}.}\textsf{\color{#C26563}r}\textsf{\color{#C37C64}.}\textsf{\color{#C09765}e}\textsf{\color{#BAB069}.}\textsf{\color{#BCC872}u}\textsf{\color{#CFDA85}.}\textsf{\color{#E2F592}s}$
-  </p>
+    <!-- Amphoreus LaTeX Gradient Text (HUGE) -->
+   <p>
+      $\huge\textsf{\color{#4C333D}A}\textsf{\color{#583641}.}\textsf{\color{#653945}m}\textsf{\color{#713C4A}.}\textsf{\color{#7E3F4E}p}\textsf{\color{#8B4353}.}\textsf{\color{#974657}h}\textsf{\color{#A4495C}.}\textsf{\color{#B04C60}o}\textsf{\color{#BC5460}.}\textsf{\color{#C26563}r}\textsf{\color{#C37C64}.}\textsf{\color{#C09765}e}\textsf{\color{#BAB069}.}\textsf{\color{#BCC872}u}\textsf{\color{#CFDA85}.}\textsf{\color{#E2F592}s}$
+    </p>
 
-  <br>
+   <br>
 
-  <!-- Chinese Quote LaTeX Gradient Text (MEDIUM-LARGE) -->
-  <p>
-    $\Large\textsf{\color{#4C333D}"\ }\textsf{\color{#613945}重}\textsf{\color{#753F4C}见}\textsf{\color{#8A4452}澄}\textsf{\color{#9F4A59}澈}\textsf{\color{#B4505F}晴}\textsf{\color{#C26A63}空}\textsf{\color{#C19A66}！}\textsf{\color{#E2F592}\ "}$
-  </p>
+    <!-- Chinese Quote LaTeX Gradient Text (MEDIUM-LARGE) -->
+   <p>
+      $\Large\textsf{\color{#4C333D}"\ }\textsf{\color{#613945}重}\textsf{\color{#753F4C}见}\textsf{\color{#8A4452}澄}\textsf{\color{#9F4A59}澈}\textsf{\color{#B4505F}晴}\textsf{\color{#C26A63}空}\textsf{\color{#C19A66}！}\textsf{\color{#E2F592}\ "}$
+    </p>
 
   <br><br>
 
-  <!-- Profile Views Counter Badge -->
+    <!-- Profile Views Counter Badge -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=killuafann&label=angels%E2%99%A1&color=d2ed78&style=flat" alt="angels counter" />
-  </p>
+      <img src="https://komarev.com/ghpvc/?username=killuafann&label=angels%E2%99%A1&color=d2ed78&style=flat" alt="angels counter" />
+    </p>
+
+  </div>
 
 </div>
 
 <br clear="all" />
-
 
 
 <img width="736" height="736" alt="Image" src="https://github.com/user-attachments/assets/e5658032-d1e7-416f-a16d-5edc0c737f9d" />
