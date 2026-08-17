@@ -64,8 +64,8 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 
 <div align="center">
 
-  <!-- Left Side: Hyacine PNG -->
-  <img align="left" width="38%" src="https://private-user-images.githubusercontent.com/240546545/637047480-e5658032-d1e7-416f-a16d-5edc0c737f9d.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODY5ODI4NTAsIm5iZiI6MTc4Njk4MjU1MCwicGF0aCI6Ii8yNDA1NDY1NDUvNjM3MDQ3NDgwLWU1NjU4MDMyLWQxZTctNDE2Zi1hMTZkLTVlZGMwYzczN2Y5ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwODE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgxN1QxNjAyMzBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNWY3NzVjZmU1MWY0NWFiNjBhYmEwOTA4NmNmZjgxMzNlNDhkMGRhMmMzMDJiY2YxNWQ5ZjI5MzU4NDRmZTNjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.-IZTSE3eiqNLAC0MN_EjUzddm9FjQCfeTJ_Y3BjtmXw" alt="Hyacine" />
+  <!-- Left Side: Hyacine PNG (Width increased to bring elements closer) -->
+  <img align="left" width="52%" src="YOUR_HYACINE_IMAGE_URL_HERE" alt="Hyacine" />
 
   <br>
 
@@ -76,43 +76,23 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
     <a href="YOUR_STRAWPAGE_URL"><i><b>strawpage</b></i></a>
   </p>
 
-  <br>
+  <br><br>
 
-  <!-- Huge Gradient Amphoreus Text -->
-  <svg width="340" height="60" viewBox="0 0 340 60">
-    <defs>
-      <linearGradient id="amphGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#3A5A32" />
-        <stop offset="50%" stop-color="#8DBF4B" />
-        <stop offset="100%" stop-color="#E2F592" />
-      </linearGradient>
-    </defs>
-    <text x="50%" y="50%" dominant-baseline="central" text-anchor="middle" font-family="Georgia, serif" font-size="34" font-weight="bold" letter-spacing="4" fill="url(#amphGrad)">
-      Amphoreus
-    </text>
-  </svg>
+  <!-- Huge Gradient Text: Amphoreus (Color-picked from image dark to light) -->
+  <h1>
+    <font color="#4C333D">A</font><font color="#6B3F48">m</font><font color="#8A4C53">p</font><font color="#A85B5B">h</font><font color="#C27468">o</font><font color="#BBA169">r</font><font color="#BFBF77">e</font><font color="#CFDA85">u</font><font color="#E2F592">s</font>
+  </h1>
 
-  <br>
-
-  <!-- Huge Gradient Chinese Text -->
-  <svg width="360" height="55" viewBox="0 0 360 55">
-    <defs>
-      <linearGradient id="zhGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#3A5A32" />
-        <stop offset="50%" stop-color="#8DBF4B" />
-        <stop offset="100%" stop-color="#E2F592" />
-      </linearGradient>
-    </defs>
-    <text x="50%" y="50%" dominant-baseline="central" text-anchor="middle" font-family="'Microsoft YaHei', sans-serif" font-size="26" font-weight="bold" letter-spacing="3" fill="url(#zhGrad)">
-      “ 重见澄澈晴空！ ”
-    </text>
-  </svg>
+  <!-- Huge Gradient Text: Chinese Quote -->
+  <h2>
+    <font color="#4C333D">“</font> <font color="#613C44">重</font><font color="#7A464D">见</font><font color="#945155">澄</font><font color="#B3615F">澈</font><font color="#C28268">晴</font><font color="#BDB06F">空</font><font color="#CBD382">！</font> <font color="#E2F592">”</font>
+  </h2>
 
   <br><br>
 
   <!-- Profile Views Counter Badge -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=killuafann&label=angels%E2%99%A1&color=d2ed78&style=flat" alt="angels counter" />
+    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=angels%E2%99%A1&color=d2ed78&style=flat" alt="angels counter" />
   </p>
 
 </div>
@@ -123,3 +103,4 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 
 
 
+<img width="736" height="736" alt="Image" src="https://github.com/user-attachments/assets/e5658032-d1e7-416f-a16d-5edc0c737f9d" />
