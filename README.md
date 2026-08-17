@@ -64,36 +64,56 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 
 <table border="0">
   <tr>
-    <!-- Left Column: Hyacine Image -->
-    <td width="50%" align="center" valign="middle">
-      <img src="YOUR_HYACINE_IMAGE_URL_HERE" width="100%" alt="Hyacine" />
+    <!-- Left Side: Hyacine Image -->
+    <td width="45%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY/main/Hyacine.png" width="100%" alt="Hyacine" />
     </td>
 
-    <!-- Right Column: Text & Links -->
-    <td width="50%" align="center" valign="middle">
+     <!-- Right Side: Links, Gradient Text, & Counter -->
+    <td width="55%" align="center" valign="middle">
       
-      <!-- Links -->
+      <!-- Top Links -->
       <p>
-        <a href="YOUR_ATABOOK_LINK"><i><b>atabook</b></i></a> · 
-        <a href="YOUR_GUNSLOL_LINK"><i><b>guns.lol</b></i></a> · 
-        <a href="YOUR_STRAWPAGE_LINK"><i><b>strawpage</b></i></a>
+        <a href="https://atabook.org"><i><b>atabook</b></i></a> · 
+        <a href="https://guns.lol"><i><b>guns.lol</b></i></a> · 
+        <a href="https://strawpage.com"><i><b>strawpage</b></i></a>
       </p>
 
       <br />
 
-      <!-- Gradient Text: Amphoreus -->
-      <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=32&duration=5000&pause=1000&color=E2F592&center=true&vCenter=true&width=300&height=50&lines=Amphoreus" alt="Amphoreus" />
+      <!-- Gradient SVG: Amphoreus -->
+      <svg width="250" height="50" viewBox="0 0 250 50">
+        <defs>
+          <linearGradient id="amphoreusGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#4F7942" />
+            <stop offset="50%" stop-color="#A2D149" />
+            <stop offset="100%" stop-color="#E2F592" />
+          </linearGradient>
+        </defs>
+        <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" font-family="Georgia, serif" font-size="28" fill="url(#amphoreusGrad)">
+          Amphoreus
+        </text>
+      </svg>
 
       <br />
 
-      <!-- Gradient Chinese Text -->
-      <p>
-        <font color="#D2ED78"><b>重见澄澈晴空！</b></font>
-      </p>
+      <!-- Gradient SVG: Chinese Text -->
+      <svg width="250" height="50" viewBox="0 0 250 50">
+        <defs>
+          <linearGradient id="chineseGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#4F7942" />
+            <stop offset="50%" stop-color="#A2D149" />
+            <stop offset="100%" stop-color="#E2F592" />
+          </linearGradient>
+        </defs>
+        <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="url(#chineseGrad)">
+          重见澄澈晴空！
+        </text>
+      </svg>
 
       <br />
 
-      <!-- Profile Views Badge with Custom Label -->
+      <!-- Profile Views Counter -->
       <p>
         <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=angels%E2%99%A1&color=d2ed78&style=flat" alt="angels counter" />
       </p>
