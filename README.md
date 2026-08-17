@@ -97,7 +97,7 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 
   
   <p>
-      <img src="https://komarev.com/ghpvc/?username=killuafann&label=angels%E2%99%A1&color=d2ed78&style=flat" alt="angels counter" />
+      <img src="https://komarev.com/ghpvc/?username=killuafann&label=angels%E2%99%A1&color=C26A63&style=flat" alt="angels counter" />
     </p>
 
   </div>
