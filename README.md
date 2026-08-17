@@ -62,56 +62,35 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 
 
 
-<div align="center">
-
-  <!-- Left Side: Hyacine PNG -->
-  <img align="left" width="50%" src="YOUR_HYACINE_IMAGE_URL_HERE" alt="Hyacine" />
-
-  <br>
-
-  <!-- Top Links -->
-  <p>
-    <a href="YOUR_ATABOOK_URL"><i><b>atabook</b></i></a> · 
-    <a href="YOUR_GUNSLOL_URL"><i><b>guns.lol</b></i></a> · 
-    <a href="YOUR_STRAWPAGE_URL"><i><b>strawpage</b></i></a>
-  </p>
-
-  <br><br>
-
-  <!-- Amphoreus text with dots and letter-by-letter gradient -->
-  <p>
-    <font size="5" face="Georgia, serif">
-      <font color="#8A2B3D"><b>A</b></font>.<font color="#9B3342"><b>m</b></font>.<font color="#AC3E48"><b>p</b></font>.<font color="#BD4B4F"><b>h</b></font>.<font color="#C95B54"><b>o</b></font>.<font color="#D2705C"><b>r</b></font>.<font color="#D38A65"><b>e</b></font>.<font color="#CCA271"><b>u</b></font>.<font color="#C5B77E"><b>s</b></font>
-    </font>
-  </p>
-
-  <br>
-
-  <!-- Chinese quote text with spaces and letter-by-letter gradient -->
-  <p>
-    <font size="4">
-      <font color="#8A2B3D">”</font> 
-      <font color="#9B3342"><b>重</b></font>
-      <font color="#AC3E48"><b>见</b></font>
-      <font color="#BD4B4F"><b>澄</b></font>
-      <font color="#C95B54"><b>澈</b></font>
-      <font color="#D2705C"><b>晴</b></font>
-      <font color="#D38A65"><b>空</b></font>
-      <font color="#CCA271"><b>！</b></font> 
-      <font color="#C5B77E">“</font>
-    </font>
-  </p>
-
-  <br><br>
-
-  <!-- Profile Views Counter Badge -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=angels%E2%99%A1&color=d2ed78&style=flat" alt="angels counter" />
-  </p>
-
-</div>
-
-<br clear="all" />
+<table align="center" border="0">
+  <tr>
+    <td align="center" valign="middle" width="50%">
+      <img src="YOUR_HYACINE_IMAGE_URL_HERE" width="100%" alt="Hyacine" />
+    </td>
+    <td align="center" valign="middle" width="50%">
+      <a href="YOUR_ATABOOK_URL"><i><b>atabook</b></i></a> · 
+      <a href="YOUR_GUNSLOL_URL"><i><b>guns.lol</b></i></a> · 
+      <a href="YOUR_STRAWPAGE_URL"><i><b>strawpage</b></i></a>
+      <br><br>
+      <h3>
+        <font color="#8A2B3D">A</font>.<font color="#9B3342">m</font>.<font color="#AC3E48">p</font>.<font color="#BD4B4F">h</font>.<font color="#C95B54">o</font>.<font color="#D2705C">r</font>.<font color="#D38A65">e</font>.<font color="#CCA271">u</font>.<font color="#C5B77E">s</font>
+      </h3>
+      <h4>
+        <font color="#8A2B3D">”</font> 
+        <font color="#9B3342">重</font>
+        <font color="#AC3E48">见</font>
+        <font color="#BD4B4F">澄</font>
+        <font color="#C95B54">澈</font>
+        <font color="#D2705C">晴</font>
+        <font color="#D38A65">空</font>
+        <font color="#CCA271">！</font> 
+        <font color="#C5B77E">“</font>
+      </h4>
+      <br>
+      <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=angels%E2%99%A1&color=d2ed78&style=flat" alt="angels counter" />
+    </td>
+  </tr>
+</table>
 
 
 
