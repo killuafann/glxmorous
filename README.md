@@ -62,20 +62,22 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 
 
 
-<table align="center" border="0">
+<table>
   <tr>
-    <td align="center" valign="middle" width="50%">
-      <img src="YOUR_HYACINE_IMAGE_URL_HERE" width="100%" alt="Hyacine" />
+    <td align="left" valign="middle" width="50%">
+      <img align="left" src="YOUR_HYACINE_IMAGE_URL_HERE" width="100%" alt="Hyacine" />
     </td>
     <td align="center" valign="middle" width="50%">
-      <a href="YOUR_ATABOOK_URL"><i><b>atabook</b></i></a> · 
-      <a href="YOUR_GUNSLOL_URL"><i><b>guns.lol</b></i></a> · 
-      <a href="YOUR_STRAWPAGE_URL"><i><b>strawpage</b></i></a>
-      <br><br>
-      <h3>
+      <p>
+        <a href="YOUR_ATABOOK_URL"><i><b>atabook</b></i></a> · 
+        <a href="YOUR_GUNSLOL_URL"><i><b>guns.lol</b></i></a> · 
+        <a href="YOUR_STRAWPAGE_URL"><i><b>strawpage</b></i></a>
+      </p>
+      <br>
+      <h1>
         <font color="#8A2B3D">A</font>.<font color="#9B3342">m</font>.<font color="#AC3E48">p</font>.<font color="#BD4B4F">h</font>.<font color="#C95B54">o</font>.<font color="#D2705C">r</font>.<font color="#D38A65">e</font>.<font color="#CCA271">u</font>.<font color="#C5B77E">s</font>
-      </h3>
-      <h4>
+      </h1>
+      <h2>
         <font color="#8A2B3D">”</font> 
         <font color="#9B3342">重</font>
         <font color="#AC3E48">见</font>
@@ -85,7 +87,7 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
         <font color="#D38A65">空</font>
         <font color="#CCA271">！</font> 
         <font color="#C5B77E">“</font>
-      </h4>
+      </h2>
       <br>
       <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=angels%E2%99%A1&color=d2ed78&style=flat" alt="angels counter" />
     </td>
