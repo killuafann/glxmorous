@@ -83,7 +83,7 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 
    
   <p>
-      $\large\textsf{\color{#72694f}A}\textsf{\color{#72694f}.}\textsf{\color{#72694f}m}\textsf{\color{#998d6c}.}\textsf{\color{#998d6c}p}\textsf{\color{#d6ac9f}.}\textsf{\color{#d6ac9f}h}\textsf{\color{#ddb4a2}.}\textsf{\color{#ddb4a2}o}\textsf{\color{#ddb4a2}.}\textsf{\color{#ddb4a2}r}\textsf{\color{#d7f0ab}.}\textsf{\color{#d7f0ab}e}\textsf{\color{#d7f0ab}.}\textsf{\color{#d7f0ab}u}\textsf{\color{#d7f0ab}.}\textsf{\color{#d7f0ab}s}$
+      $\large\textsf{\color{#4C333D}A}\textsf{\color{#4C333D}.}\textsf{\color{#613945}m}\textsf{\color{#613945}.}\textsf{\color{#753F4C}p}\textsf{\color{#753F4C}.}\textsf{\color{#8A4452}h}\textsf{\color{#8A4452}.}\textsf{\color{#9F4A59}o}\textsf{\color{#9F4A59}.}\textsf{\color{#B4505F}r}\textsf{\color{#B4505F}.}\textsf{\color{#C26A63}e}\textsf{\color{#C26A63}.}\textsf{\color{#C19A66}u}\textsf{\color{#C19A66}.}\textsf{\color{#E2F592}s}$
     </p>
 
   <br>
