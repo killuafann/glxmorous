@@ -62,19 +62,36 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 
 
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="45%" align="center" valign="middle">
-<img src="YOUR_RAW_IMAGE_URL_HERE" width="100%" alt="Hyacine">
-</td>
-<td width="55%" align="center" valign="middle">
-<div><a href="YOUR_ATABOOK_URL"><i><b>atabook</b></i></a> · <a href="YOUR_GUNSLOL_URL"><i><b>guns.lol</b></i></a> · <a href="YOUR_STRAWPAGE_URL"><i><b>strawpage</b></i></a></div>
-<br>
-<div><svg width="250" height="35" viewBox="0 0 250 35"><defs><linearGradient id="amphoreusGrad" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#4F7942"/><stop offset="50%" stop-color="#A2D149"/><stop offset="100%" stop-color="#E2F592"/></linearGradient></defs><text x="50%" y="50%" dominant-baseline="central" text-anchor="middle" font-family="Georgia, serif" font-size="28" fill="url(#amphoreusGrad)">Amphoreus</text></svg></div>
-<br>
-<div><svg width="250" height="30" viewBox="0 0 250 30"><defs><linearGradient id="chineseGrad" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#4F7942"/><stop offset="50%" stop-color="#A2D149"/><stop offset="100%" stop-color="#E2F592"/></linearGradient></defs><text x="50%" y="50%" dominant-baseline="central" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="url(#chineseGrad)">重见澄澈晴空！</text></svg></div>
-<br>
-<div><img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=angels%E2%99%A1&color=d2ed78&style=flat" alt="angels counter"></div>
-</td>
-</tr>
-</table>
+<div align="center">
+  
+  <!-- Left Side: Hyacine Image (Floated Left) -->
+  <img align="left" width="40%" src="YOUR_HYACINE_IMAGE_LINK_HERE" alt="Hyacine" />
+  
+  <br><br>
+
+  <!-- Top Links -->
+  <p>
+    <a href="YOUR_ATABOOK_URL"><i><b>atabook</b></i></a> · 
+    <a href="YOUR_GUNSLOL_URL"><i><b>guns.lol</b></i></a> · 
+    <a href="YOUR_STRAWPAGE_URL"><i><b>strawpage</b></i></a>
+  </p>
+
+  <br>
+
+  <!-- Gradient Text: Amphoreus -->
+  <h2>
+    <font color="#4F7942">A</font><font color="#5F8F4B">m</font><font color="#70A454">p</font><font color="#80BA5E">h</font><font color="#91CF67">o</font><font color="#A1E570">r</font><font color="#B2FB79">e</font><font color="#C7FA86">u</font><font color="#E2F592">s</font>
+  </h2>
+
+  <!-- Gradient Text: Chinese -->
+  <h3>
+    <font color="#4F7942">重</font><font color="#679750">见</font><font color="#7FB55E">澄</font><font color="#98D36C">澈</font><font color="#B0F17A">晴</font><font color="#C9F386">空</font><font color="#E2F592">！</font>
+  </h3>
+
+  <br>
+
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=PUT_YOUR_ACTUAL_USERNAME_HERE&label=angels%E2%99%A1&color=d2ed78&style=flat" alt="angels counter" />
+
+</div>
+<br clear="all" />
