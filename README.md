@@ -63,41 +63,13 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 
 
 <div align="center">
-  <!-- Combined SVG Layout for Image + Text + Gradient -->
-  <svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <!-- Gradient color-picked from dark dusky rose to light lime -->
-      <linearGradient id="hyacineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#4C333D" />
-        <stop offset="30%" stop-color="#8A4C53" />
-        <stop offset="60%" stop-color="#C27468" />
-        <stop offset="85%" stop-color="#CFDA85" />
-        <stop offset="100%" stop-color="#E2F592" />
-      </linearGradient>
-    </defs>
 
-    <!-- PNG Image embedded on the Left Side -->
-    <image href="YOUR_HYACINE_IMAGE_URL_HERE" x="10" y="20" width="360" height="360" />
-
-    <!-- Right Side Content -->
-    <g transform="translate(560, 0)">
-      
-      <!-- Amphoreus Text -->
-      <text x="0" y="160" text-anchor="middle" font-family="Georgia, serif" font-size="32" font-weight="bold" fill="url(#hyacineGrad)">
-        A . m . p . h . o . r . e . u . s
-      </text>
-
-      <!-- Chinese Quote Text -->
-      <text x="0" y="230" text-anchor="middle" font-family="'Microsoft YaHei', sans-serif" font-size="24" font-weight="bold" fill="url(#hyacineGrad)">
-        “ 重 见 澄 澈 晴 空 ！ ”
-      </text>
-
-    </g>
-  </svg>
+  <!-- Left Side: Image Floated -->
+  <img align="left" width="320" src="YOUR_HYACINE_IMAGE_URL_HERE" alt="Hyacine" />
 
   <br>
 
-  <!-- Top Links -->
+  <!-- Links -->
   <p>
     <a href="YOUR_ATABOOK_URL"><i><b>atabook</b></i></a> · 
     <a href="YOUR_GUNSLOL_URL"><i><b>guns.lol</b></i></a> · 
@@ -106,11 +78,24 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 
   <br>
 
-  <!-- Profile Views Badge -->
+  <!-- Amphoreus Gradient Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=30&weight=700&duration=100000&pause=1000&color=8A2B3D&center=true&vCenter=true&width=380&height=50&lines=A.m.p.h.o.r.e.u.s" alt="Amphoreus" />
+
+  <br>
+
+  <!-- Chinese Text Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=24&weight=700&duration=100000&pause=1000&color=E2F592&center=true&vCenter=true&width=380&height=50&lines=%E2%80%9C+%E9%87%8D+%E8%A7%81+%EF%BC%86+%E6%BE%84+%E6%BE%88+%E6%99%B4+%E7%A9%BA+%EF%BC%81+%E2%80%9D" alt="Quote" />
+
+  <br><br>
+
+  <!-- Profile Views Counter Badge -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=angels%E2%99%A1&color=d2ed78&style=flat" alt="angels counter" />
   </p>
+
 </div>
+
+<br clear="all" />
 
 
 
