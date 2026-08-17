@@ -62,37 +62,55 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 
 
 
-<table>
-  <tr>
-    <td align="left" valign="middle" width="50%">
-      <img align="left" src="YOUR_HYACINE_IMAGE_URL_HERE" width="100%" alt="Hyacine" />
-    </td>
-    <td align="center" valign="middle" width="50%">
-      <p>
-        <a href="YOUR_ATABOOK_URL"><i><b>atabook</b></i></a> · 
-        <a href="YOUR_GUNSLOL_URL"><i><b>guns.lol</b></i></a> · 
-        <a href="YOUR_STRAWPAGE_URL"><i><b>strawpage</b></i></a>
-      </p>
-      <br>
-      <h1>
-        <font color="#8A2B3D">A</font>.<font color="#9B3342">m</font>.<font color="#AC3E48">p</font>.<font color="#BD4B4F">h</font>.<font color="#C95B54">o</font>.<font color="#D2705C">r</font>.<font color="#D38A65">e</font>.<font color="#CCA271">u</font>.<font color="#C5B77E">s</font>
-      </h1>
-      <h2>
-        <font color="#8A2B3D">”</font> 
-        <font color="#9B3342">重</font>
-        <font color="#AC3E48">见</font>
-        <font color="#BD4B4F">澄</font>
-        <font color="#C95B54">澈</font>
-        <font color="#D2705C">晴</font>
-        <font color="#D38A65">空</font>
-        <font color="#CCA271">！</font> 
-        <font color="#C5B77E">“</font>
-      </h2>
-      <br>
-      <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=angels%E2%99%A1&color=d2ed78&style=flat" alt="angels counter" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <!-- Combined SVG Layout for Image + Text + Gradient -->
+  <svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <!-- Gradient color-picked from dark dusky rose to light lime -->
+      <linearGradient id="hyacineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#4C333D" />
+        <stop offset="30%" stop-color="#8A4C53" />
+        <stop offset="60%" stop-color="#C27468" />
+        <stop offset="85%" stop-color="#CFDA85" />
+        <stop offset="100%" stop-color="#E2F592" />
+      </linearGradient>
+    </defs>
+
+    <!-- PNG Image embedded on the Left Side -->
+    <image href="YOUR_HYACINE_IMAGE_URL_HERE" x="10" y="20" width="360" height="360" />
+
+    <!-- Right Side Content -->
+    <g transform="translate(560, 0)">
+      
+      <!-- Amphoreus Text -->
+      <text x="0" y="160" text-anchor="middle" font-family="Georgia, serif" font-size="32" font-weight="bold" fill="url(#hyacineGrad)">
+        A . m . p . h . o . r . e . u . s
+      </text>
+
+      <!-- Chinese Quote Text -->
+      <text x="0" y="230" text-anchor="middle" font-family="'Microsoft YaHei', sans-serif" font-size="24" font-weight="bold" fill="url(#hyacineGrad)">
+        “ 重 见 澄 澈 晴 空 ！ ”
+      </text>
+
+    </g>
+  </svg>
+
+  <br>
+
+  <!-- Top Links -->
+  <p>
+    <a href="YOUR_ATABOOK_URL"><i><b>atabook</b></i></a> · 
+    <a href="YOUR_GUNSLOL_URL"><i><b>guns.lol</b></i></a> · 
+    <a href="YOUR_STRAWPAGE_URL"><i><b>strawpage</b></i></a>
+  </p>
+
+  <br>
+
+  <!-- Profile Views Badge -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=angels%E2%99%A1&color=d2ed78&style=flat" alt="angels counter" />
+  </p>
+</div>
 
 
 
