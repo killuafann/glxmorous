@@ -69,7 +69,7 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
   <!-- Right Side Container (Centered & Shifted Down) -->
   <div align="center" style="display: inline-block; width: 42%; margin-top: 80px;">
     
-    <!-- Top Links -->
+    
   <p>
       <a href="YOUR_ATABOOK_URL"><i><b>atabook</b></i></a> · 
       <a href="YOUR_GUNSLOL_URL"><i><b>guns.lol</b></i></a> · 
