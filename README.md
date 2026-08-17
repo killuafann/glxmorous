@@ -62,9 +62,44 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 
 
 
-<!-- Left Side: Hyacine PNG (Bigger & Closer) -->
-<img align="left" width="58%" style="margin-right: -25px;" src="YOUR_HYACINE_IMAGE_URL_HERE" alt="Hyacine" />
+<div align="center">
 
+  <!-- Left Side: Hyacine PNG (Floated) -->
+  <img align="left" width="48%" src="YOUR_HYACINE_IMAGE_URL_HERE" alt="Hyacine" />
+
+  <br>
+
+  <!-- Top Links -->
+  <p>
+    <a href="YOUR_ATABOOK_URL"><i><b>atabook</b></i></a> · 
+    <a href="YOUR_GUNSLOL_URL"><i><b>guns.lol</b></i></a> · 
+    <a href="YOUR_STRAWPAGE_URL"><i><b>strawpage</b></i></a>
+  </p>
+
+  <br><br>
+
+  <!-- Amphoreus LaTeX Gradient Text (HUGE) -->
+  <p>
+    $\huge\textsf{\color{#4C333D}A}\textsf{\color{#583641}.}\textsf{\color{#653945}m}\textsf{\color{#713C4A}.}\textsf{\color{#7E3F4E}p}\textsf{\color{#8B4353}.}\textsf{\color{#974657}h}\textsf{\color{#A4495C}.}\textsf{\color{#B04C60}o}\textsf{\color{#BC5460}.}\textsf{\color{#C26563}r}\textsf{\color{#C37C64}.}\textsf{\color{#C09765}e}\textsf{\color{#BAB069}.}\textsf{\color{#BCC872}u}\textsf{\color{#CFDA85}.}\textsf{\color{#E2F592}s}$
+  </p>
+
+  <br>
+
+  <!-- Chinese Quote LaTeX Gradient Text (MEDIUM-LARGE) -->
+  <p>
+    $\Large\textsf{\color{#4C333D}"\ }\textsf{\color{#613945}重}\textsf{\color{#753F4C}见}\textsf{\color{#8A4452}澄}\textsf{\color{#9F4A59}澈}\textsf{\color{#B4505F}晴}\textsf{\color{#C26A63}空}\textsf{\color{#C19A66}！}\textsf{\color{#E2F592}\ "}$
+  </p>
+
+  <br><br>
+
+  <!-- Profile Views Counter Badge -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=angels%E2%99%A1&color=d2ed78&style=flat" alt="angels counter" />
+  </p>
+
+</div>
+
+<br clear="all" />
 
 
 
