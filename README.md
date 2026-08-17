@@ -64,27 +64,37 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 
 <div align="center">
 
-  <!-- Left Side: Image Floated -->
-  <img align="left" width="320" src="https://private-user-images.githubusercontent.com/240546545/637047480-e5658032-d1e7-416f-a16d-5edc0c737f9d.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODY5ODMzNzksIm5iZiI6MTc4Njk4MzA3OSwicGF0aCI6Ii8yNDA1NDY1NDUvNjM3MDQ3NDgwLWU1NjU4MDMyLWQxZTctNDE2Zi1hMTZkLTVlZGMwYzczN2Y5ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwODE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgxN1QxNjExMTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZDA4Yjg2YjZmYzVjM2QwMWRlOTRlYWZiN2ExODViYjc0YmE5YjUzZDFhMDAyZDQ4NTUyZjVmOTExZjk1OGYzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.VmZLd0Bg3ZNCsCFs0wjuqRYIq4GUhi7RkLD0dByOj4o" alt="Hyacine" />
+  <!-- Left Side: Hyacine PNG -->
+  <img align="left" width="45%" src="YOUR_HYACINE_IMAGE_URL_HERE" alt="Hyacine" />
 
   <br>
 
-  <!-- Links -->
+  <!-- Top Links -->
   <p>
     <a href="YOUR_ATABOOK_URL"><i><b>atabook</b></i></a> · 
     <a href="YOUR_GUNSLOL_URL"><i><b>guns.lol</b></i></a> · 
     <a href="YOUR_STRAWPAGE_URL"><i><b>strawpage</b></i></a>
   </p>
 
-  <br>
+  <br><br>
 
-  <!-- Amphoreus Gradient Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=30&weight=700&duration=100000&pause=1000&color=8A2B3D&center=true&vCenter=true&width=380&height=50&lines=A.m.p.h.o.r.e.u.s" alt="Amphoreus" />
+  <!-- Instant Gradient Text: Amphoreus -->
+  <h1>
+    <font color="#4C333D">A</font>.<font color="#5C3842">m</font>.<font color="#6F3F48">p</font>.<font color="#82464F">h</font>.<font color="#964F57">o</font>.<font color="#AA5960">r</font>.<font color="#BD656A">e</font>.<font color="#B5866E">u</font>.<font color="#A3AA74">s</font>
+  </h1>
 
-  <br>
-
-  <!-- Chinese Text Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=24&weight=700&duration=100000&pause=1000&color=E2F592&center=true&vCenter=true&width=380&height=50&lines=%E2%80%9C+%E9%87%8D+%E8%A7%81+%EF%BC%86+%E6%BE%84+%E6%BE%88+%E6%99%B4+%E7%A9%BA+%EF%BC%81+%E2%80%9D" alt="Quote" />
+  <!-- Instant Gradient Text: Chinese Quote -->
+  <h2>
+    <font color="#4C333D">“</font>
+    <font color="#5C3842">重</font>
+    <font color="#6F3F48">见</font>
+    <font color="#82464F">澄</font>
+    <font color="#964F57">澈</font>
+    <font color="#AA5960">晴</font>
+    <font color="#BD656A">空</font>
+    <font color="#A3AA74">！</font>
+    <font color="#E2F592">”</font>
+  </h2>
 
   <br><br>
 
