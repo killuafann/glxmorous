@@ -62,36 +62,67 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 
 
 
-<div align="center">
-  
-  <!-- Left Side: Hyacine Image (Floated Left) -->
-  <img align="left" width="40%" src="YOUR_HYACINE_IMAGE_LINK_HERE" alt="Hyacine" />
-  
-  <br><br>
+<table border="0" cellspacing="0" cellpadding="0" style="border: none !important;">
+  <tr style="border: none !important;">
+    
+    <!-- Left Column: Hyacine Image -->
+    <td width="45%" align="center" valign="middle" style="border: none !important;">
+      <img src="YOUR_HYACINE_IMAGE_URL_HERE" width="100%" alt="Hyacine" />
+    </td>
 
-  <!-- Top Links -->
-  <p>
-    <a href="YOUR_ATABOOK_URL"><i><b>atabook</b></i></a> · 
-    <a href="YOUR_GUNSLOL_URL"><i><b>guns.lol</b></i></a> · 
-    <a href="YOUR_STRAWPAGE_URL"><i><b>strawpage</b></i></a>
-  </p>
+    <!-- Right Column: Text & Counter -->
+    <td width="55%" align="center" valign="middle" style="border: none !important;">
+      
+      <!-- Links -->
+      <div>
+        <a href="YOUR_ATABOOK_URL"><i><b>atabook</b></i></a> · 
+        <a href="YOUR_GUNSLOL_URL"><i><b>guns.lol</b></i></a> · 
+        <a href="YOUR_STRAWPAGE_URL"><i><b>strawpage</b></i></a>
+      </div>
 
-  <br>
+      <br />
 
-  <!-- Gradient Text: Amphoreus -->
-  <h2>
-    <font color="#4F7942">A</font><font color="#5F8F4B">m</font><font color="#70A454">p</font><font color="#80BA5E">h</font><font color="#91CF67">o</font><font color="#A1E570">r</font><font color="#B2FB79">e</font><font color="#C7FA86">u</font><font color="#E2F592">s</font>
-  </h2>
+      <!-- Huge Gradient Amphoreus Text -->
+      <div>
+        <svg width="320" height="45" viewBox="0 0 320 45">
+          <defs>
+            <linearGradient id="amphoreusGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+              <stop offset="0%" stop-color="#4F7942" />
+              <stop offset="50%" stop-color="#A2D149" />
+              <stop offset="100%" stop-color="#E2F592" />
+            </linearGradient>
+          </defs>
+          <text x="50%" y="50%" dominant-baseline="central" text-anchor="middle" font-family="'Georgia', serif" font-size="28" font-weight="bold" letter-spacing="3" fill="url(#amphoreusGrad)">
+            A m p h o r e u s
+          </text>
+        </svg>
+      </div>
 
-  <!-- Gradient Text: Chinese -->
-  <h3>
-    <font color="#4F7942">重</font><font color="#679750">见</font><font color="#7FB55E">澄</font><font color="#98D36C">澈</font><font color="#B0F17A">晴</font><font color="#C9F386">空</font><font color="#E2F592">！</font>
-  </h3>
+      <br />
 
-  <br>
+      <!-- Huge Gradient Chinese Quote -->
+      <div>
+        <svg width="360" height="45" viewBox="0 0 360 45">
+          <defs>
+            <linearGradient id="chineseGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+              <stop offset="0%" stop-color="#4F7942" />
+              <stop offset="50%" stop-color="#A2D149" />
+              <stop offset="100%" stop-color="#E2F592" />
+            </linearGradient>
+          </defs>
+          <text x="50%" y="50%" dominant-baseline="central" text-anchor="middle" font-family="'Microsoft YaHei', sans-serif" font-size="24" font-weight="bold" letter-spacing="2" fill="url(#chineseGrad)">
+            “ 重见澄澈晴空！ ”
+          </text>
+        </svg>
+      </div>
 
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=PUT_YOUR_ACTUAL_USERNAME_HERE&label=angels%E2%99%A1&color=d2ed78&style=flat" alt="angels counter" />
+      <br />
 
-</div>
-<br clear="all" />
+      <!-- Profile Views Badge -->
+      <div>
+        <img src="https://komarev.com/ghpvc/?username=YOUR_ACTUAL_GITHUB_USERNAME&label=angels%E2%99%A1&color=d2ed78&style=flat" alt="angels counter" />
+      </div>
+
+    </td>
+  </tr>
+</table>
