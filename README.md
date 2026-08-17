@@ -74,9 +74,9 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 
     
   <p>
-      <a href="YOUR_ATABOOK_URL"><i><b>atabook</b></i></a> · 
-      <a href="YOUR_GUNSLOL_URL"><i><b>guns.lol</b></i></a> · 
-      <a href="YOUR_STRAWPAGE_URL"><i><b>strawpage</b></i></a>
+      <a href="https://hyacinthiia.atabook.org"><i><b>atabook</b></i></a> · 
+      <a href="https://guns.lol/hyacinned"><i><b>guns.lol</b></i></a> · 
+      <a href="http://hyacinthia.straw.page"><i><b>strawpage</b></i></a>
     </p>
 
   <br><br>
