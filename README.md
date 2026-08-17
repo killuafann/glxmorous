@@ -65,7 +65,7 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 <div align="center">
 
   <!-- Left Side: Image Floated -->
-  <img align="left" width="320" src="YOUR_HYACINE_IMAGE_URL_HERE" alt="Hyacine" />
+  <img align="left" width="320" src="https://private-user-images.githubusercontent.com/240546545/637047480-e5658032-d1e7-416f-a16d-5edc0c737f9d.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODY5ODMzNzksIm5iZiI6MTc4Njk4MzA3OSwicGF0aCI6Ii8yNDA1NDY1NDUvNjM3MDQ3NDgwLWU1NjU4MDMyLWQxZTctNDE2Zi1hMTZkLTVlZGMwYzczN2Y5ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwODE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgxN1QxNjExMTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZDA4Yjg2YjZmYzVjM2QwMWRlOTRlYWZiN2ExODViYjc0YmE5YjUzZDFhMDAyZDQ4NTUyZjVmOTExZjk1OGYzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.VmZLd0Bg3ZNCsCFs0wjuqRYIq4GUhi7RkLD0dByOj4o" alt="Hyacine" />
 
   <br>
 
