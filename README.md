@@ -62,3 +62,4 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 
 
 
+[![Alt text for image](URL_TO_YOUR_IMAGE)](www.guns.lol/elationed)
