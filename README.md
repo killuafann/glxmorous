@@ -60,22 +60,39 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 
 
 
-
-
 <p align="center">
-  <!-- Left character image -->
-  <img src="URL_TO_YOUR_CHARACTER_IMAGE.png" width="300" align="left">
+  <img src="URL_TO_TOP_DIVIDER.png" width="600">
+</p>
 
-  <!-- Right clickable button links -->
-  <a href="www.guns.lol/elationed">
-    <img src="(https://github.com/killuafann/glxmorous/raw/main/poem.svg)" width="150">
-  </a><br>
-  
-  <a href="YOUR_LINK_HERE_2">
-    <img src="URL_TO_BUTTON_2.png" width="150">
-  </a><br>
 
-  <a href="YOUR_LINK_HERE_3">
-    <img src="URL_TO_BUTTON_3.png" width="150">
-  </a>
+<table align="center">
+  <tr>
+
+   <td align="center" width="350">
+      <img src="URL_TO_CHARACTER_IMAGE.png" width="300">
+    </td>
+    
+    
+   <td width="15"></td>
+
+ 
+   <td align="center" width="200">
+   <a href="YOUR_LINK_1">
+   <img src="URL_TO_BUTTON_1.png" width="150">
+   </a>
+   <br><br>
+   <a href="YOUR_LINK_2">
+   <img src="URL_TO_BUTTON_2.png" width="150">
+   </a>
+   <br><br>
+   <a href="YOUR_LINK_3">
+  <img src="URL_TO_BUTTON_3.png" width="150">
+   </a>
+   </td>
+  </tr>
+</table>
+
+<!-- Bottom Kaomoji / Text Divider -->
+<p align="center">
+  <sub>‧₊˚✩彡 ‧₊˚ (˵ •̀ ᴗ - ˵ ) ✧ ˚₊‧ 彡✩˚₊‧</sub>
 </p>
