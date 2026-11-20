@@ -102,7 +102,6 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
   </tr>
 </table>
 
-<!-- Bottom Kaomoji / Text Divider -->
 <p align="center">
-  <sub>‧₊˚✩彡 ‧₊˚ (˵ •̀ ᴗ - ˵ ) ✧ ˚₊‧ 彡✩˚₊‧</sub>
+  <img src="https://private-user-images.githubusercontent.com/240546545/713732818-6ac3fa83-64b7-4808-a35d-cf8831bdabfa.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTUxOTI3NjAsIm5iZiI6MTc5NTE5MjQ2MCwicGF0aCI6Ii8yNDA1NDY1NDUvNzEzNzMyODE4LTZhYzNmYTgzLTY0YjctNDgwOC1hMzVkLWNmODgzMWJkYWJmYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYxMTIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MTEyMFQxNjM0MjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01YmIwYjA4OGQxYmQ3MTMzNmE0N2M4ZGMyZDNlOWIzNDI4Nzg2MDUxNDQ2OGQxYzM2NDc5MjVhMTRlNTNhODQ0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.fDfJ5mAvRRXxx2r71Dwf0OIhmzIGKEJS3b1NK3x_IG4" width="600">
 </p>
