@@ -42,9 +42,11 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 
    
 
-   <img src="https://komarev.com/ghpvc/?username=rottingdevotion&color=801d38&style=flat-square" alt="profile views" /> <img width="180" height="180" alt="Untitled673_20261120155047" src="https://github.com/user-attachments/assets/93960478-2781-498f-9689-9ff87e1cb232" />
+   <img src="https://komarev.com/ghpvc/?username=rottingdevotion&color=801d38&style=flat-square" alt="profile views" /> 
 
 
+
+------------------
 
 
    </td>
@@ -62,8 +64,10 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 
 </div>
 
+---------------------------------------------
 
-<img width="180" height="180" alt="Untitled673_20261120153758" src="https://github.com/user-attachments/assets/102a2ae5-a270-4893-aabf-475b9e396118" />
+<img width="180" height="180" alt="Untitled673_20261120153758" src="https://github.com/user-attachments/assets/102a2ae5-a270-4893-aabf-475b9e396118" /> <img width="180" height="180" alt="Untitled673_20261120155047" src="https://github.com/user-attachments/assets/93960478-2781-498f-9689-9ff87e1cb232" />
+
 
 
 <p align="center">
