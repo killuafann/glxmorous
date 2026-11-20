@@ -77,7 +77,7 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 
  
    <td align="center" width="200">
-   <a href="wwww.guns.lol/elationed">
+   <a href="[wwww.guns.lol/elationed](https://nihiluxed.straw.page/)">
    <img src="https://private-user-images.githubusercontent.com/240546545/713553445-c6827e5f-ed23-4230-bba4-c4a4ab55410f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTUxNzkzMzgsIm5iZiI6MTc5NTE3OTAzOCwicGF0aCI6Ii8yNDA1NDY1NDUvNzEzNTUzNDQ1LWM2ODI3ZTVmLWVkMjMtNDIzMC1iYmE0LWM0YTRhYjU1NDEwZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYxMTIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MTEyMFQxMjUwMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jZDJjNjJiOTNiN2IyZmM0ZjhlNjQwOTU1OWQ1Nzg3OThkZDYyMzhiZWE0MDEwMzUzNTlkZTI4ZWVhODc1ODA4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.wOZtH4pLlt88JDJ_8M84qqVkVgB3-iLOgpQr6x5hh20" width="150">
    </a>
    <br><br>
