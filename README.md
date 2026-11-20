@@ -68,7 +68,7 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 
   <!-- Right clickable button links -->
   <a href="www.guns.lol/elationed">
-    <img src="URL_TO_BUTTON_1.png" width="150">
+    <img src="(https://github.com/killuafann/glxmorous/raw/main/poem.svg)" width="150">
   </a><br>
   
   <a href="YOUR_LINK_HERE_2">
