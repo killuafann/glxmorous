@@ -62,4 +62,20 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 
 
 
-[![Alt text for image](URL_TO_YOUR_IMAGE)](www.guns.lol/elationed)
+<p align="center">
+  <!-- Left character image -->
+  <img src="URL_TO_YOUR_CHARACTER_IMAGE.png" width="300" align="left">
+
+  <!-- Right clickable button links -->
+  <a href="www.guns.lol/elationed">
+    <img src="URL_TO_BUTTON_1.png" width="150">
+  </a><br>
+  
+  <a href="YOUR_LINK_HERE_2">
+    <img src="URL_TO_BUTTON_2.png" width="150">
+  </a><br>
+
+  <a href="YOUR_LINK_HERE_3">
+    <img src="URL_TO_BUTTON_3.png" width="150">
+  </a>
+</p>
