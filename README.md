@@ -56,7 +56,7 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 
 </div>
 
-[https://github.com/killuafann/glxmorous/blob/main/Untitled663_20261118183128.png?raw=true](https://github.com/killuafann/glxmorous/blob/main/Untitled663_20261118183128.png?raw=true)
+
 
 
 <p align="center">
