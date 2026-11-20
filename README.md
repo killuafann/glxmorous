@@ -39,7 +39,13 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 
    <br/><br/>
 
-   <img src="https://komarev.com/ghpvc/?username=rottingdevotion&color=801d38&style=flat-square" alt="profile views" />
+
+   
+
+   <img src="https://komarev.com/ghpvc/?username=rottingdevotion&color=801d38&style=flat-square" alt="profile views" /> <img width="180" height="180" alt="Untitled673_20261120155047" src="https://github.com/user-attachments/assets/93960478-2781-498f-9689-9ff87e1cb232" />
+
+
+
 
    </td>
 
