@@ -77,7 +77,7 @@ ${\textsf{\color{#801D38}"\ }}{\textsf{\color{#902947}谜}}{\textsf{\color{#A033
 
  
    <td align="center" width="200">
-   <a href="YOUR_LINK_1">
+   <a href="wwww.guns.lol/elationed">
    <img src="URL_TO_BUTTON_1.png" width="150">
    </a>
    <br><br>
